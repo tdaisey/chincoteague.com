@@ -1,0 +1,75 @@
+<!-- Page Top -->
+<?php 
+	$page_title = "Chincoteague Island Campgrounds";
+	$page_description = "Listings for Campgrounds on Chincoteague Island, Virginia";
+	$index_page = False;
+	$listing_type = "campgrounds";
+	$map_view = "yes";
+	$header_addendum = "";
+	include 'chinco-page/php/page-top.php'; 
+?>
+
+<!-- Main Section -->
+<div class="container text-center">
+
+	<!-- Title -->
+	<h1><?php echo $page_title; ?></h1>	
+	
+	<!-- Breadcrumbs -->
+	<ol class="breadcrumb">
+		<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+		<li class="breadcrumb-item"><a href="accommodations.html">Accommodations</a></li>
+		<li class="breadcrumb-item active">Campgrounds</li>
+	</ol>
+	
+	<!-- Top of Page Banners -->
+	<!-- TBD --> 
+	
+	<!-- Tabs -->
+	<ul class="nav nav-tabs" style="margin-bottom:10px;">
+		<li class="active"><a data-toggle="tab" href="#list-view">List View</a></li>
+		<li><a data-toggle="tab" href="#map-view">Map View</a></li>
+	</ul>
+	
+	<!-- Tab Content -->
+	<div class="tab-content">
+	
+		<!-- List View Tab -->
+		<div id="list-view" class="tab-pane fade in active">
+		
+			<!-- Listings Begin -->
+			
+			<?php 
+				$category = "all";
+				$hr = "true";
+				$listing_file = "chinco-page/listings/xml/" . $listing_type . ".xml";
+				$listings=simplexml_load_file($listing_file) or die("Error: Cannot create object");
+				showListings($listings,$category,$hr)
+			?> 
+		
+			<!-- Listings End -->
+			
+		</div>
+		<!-- End List View Tab -->
+		
+		<!-- Map View Tab -->
+		<div id="map-view" class="tab-pane fade">
+		
+			<div class="map-container">
+		
+				<!-- A div to hold the map -->
+				<div id="googleMap"></div>
+
+			</div>
+			
+		</div>
+		<!-- End Map View Tab -->
+	
+	</div>
+	<!-- End Tab Content -->
+	
+</div>
+<!-- End Main Section -->
+
+<!-- Page Bottom -->
+<?php include 'chinco-page/php/page-bottom.php'; ?>

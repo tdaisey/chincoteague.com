@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<boat-rental-listings>
+
+<!-- Empty listing 
+<listing>
+<name></name>
+<image alt="" width="320" height="">activities/</image>
+<description>
+</description>
+<location></location>
+<phone></phone>
+<email></email>
+<website></website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+-->
+
+<!-- Category: Boat Rentals -->
+
+<listing>
+<name categories="Boat Rentals,Map View">Snug Harbor</name>
+<image alt="Snug Harbor" width="242" height="142">boat-rentals/snug-harbor.jpg</image>
+<description>
+Snug Harbor Marina has a large fleet of boats for rent . Snug Harbor offers Carolina Skiffs, Bentley pontoon boats and 
+Old Town canoes and kayaks. Chincoteague Island is one of the most incredible places you will ever visit and if you want 
+to get the best experience and see all Chincoteague has to offer, you must be in a boat. The name Chincoteague is an 
+Indian name that means beautiful land across the water and the only way to see what the Indians did is tour the islands by 
+water, just like the natives.
+</description>
+<location>7536 East Side Road, Chincoteague VA 23336</location>
+<phone>757-336-6176</phone>
+<email>snugharbor@verizon.net</email>
+<website>http://chincoteagueaccommodations.com/</website>
+<lat>37.916968</lat>
+<long>-75.373428</long>
+<gm_link>https://goo.gl/maps/D3GhngzBSxm</gm_link>
+</listing>
+
+</boat-rental-listings>

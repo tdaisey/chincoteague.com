@@ -1,0 +1,33 @@
+<!-- Page Top -->
+<?php 
+	$page_title = "Chincoteague Island Tides";
+	$page_description = "Tide information for fishing, clamming, and surfing in Chincoteague Island, Virginia";
+	$header_addendum = "";
+	$index_page = False;
+	include 'chinco-page/php/page-top.php';
+?>
+
+<!-- Main Section -->
+<div class="container text-center">
+	
+	<!-- Title -->
+	<h1><?php echo $page_title; ?></h1>	
+		
+	<!-- Breadcrumbs -->
+	<ol class="breadcrumb">
+		<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+		<li class="breadcrumb-item active"><?php echo $page_title; ?></li>
+	</ol>
+	
+	<h2><a href="fishing.html" target="_blank">Chincoteague Island Fishing</a></h2>
+	
+	<h2><a href="charterboats.html" target="_blank">Chincoteague Island Charterboat Fishing</a></h2>
+	
+	<h2><a href="scenic-cruises.html" target="_blank">Chicoteague Island Boat Tours</a></h2>
+	
+	<iframe style="width:100%; height:550px; border:none;" src="https://cdnres.willyweather.com/widget/loadView.html?id=103110"></iframe>
+	
+</div>
+	
+<!-- Page Bottom -->
+<?php include 'chinco-page/php/page-bottom.php'; ?>

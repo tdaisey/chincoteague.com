@@ -1,0 +1,41 @@
+<!-- Page Top -->
+<?php 
+	$page_title = "Hampton Inn Chincoteague";
+	$page_description = "Live view from the Hampton Inn on Chincoteague Island, Virginia";
+	$header_addendum = "<script src='//v.angelcam.com/js_sdk'></script>\n";
+	$index_page = False;
+	include 'chinco-page/php/page-top.php';
+?>
+
+<!-- Main Section -->
+<div class="container text-center">
+	
+	<!-- Title -->
+	<h1><?php echo $page_title; ?></h1>	
+	<h1>Live Webcam</h1>
+		
+	<!-- Breadcrumbs -->
+	<ol class="breadcrumb">
+		<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+		<li class="breadcrumb-item"><a href="webcams.html">Live Webcams</a></li>
+		<li class="breadcrumb-item active">Hampton Inn Chincoteague</li>
+	</ol>
+	
+	<h2><a href="events.html" target="_blank">Chincoteague Island Events</a></h2>
+	
+	<h2><a href="pony_swim_guide.html" target="_blank">Official Pony Swim Guide</a></h2>
+	
+	<br>	
+	<h2>Live view from the<br><a href="https://www.hilton.com/en/hotels/ccgvahx-hampton-suites-chincoteague-waterfront/" target="_blank">Hampton Inn Chincoteague</a></h2>
+		
+	<div id='player_hampton-inn-camera1'></div>
+	<script>
+		new Angelcam.player('player_hampton-inn-camera1', {
+        id: '17rd2ejkye'
+    });
+	</script>
+	
+</div>
+	
+<!-- Page Bottom -->
+<?php include 'chinco-page/php/page-bottom.php'; ?>

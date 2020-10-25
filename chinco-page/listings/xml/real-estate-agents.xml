@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<real-estate-agent-listings>
+
+<!-- Empty listing 
+<listing>
+<name categories=""></name>
+<image alt="" width="320" height="">vacation-rental-companies/</image>
+<description>
+</description>
+<location></location>
+<phone></phone>
+<email></email>
+<website></website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+-->
+
+<listing>
+<name categories="List View">Meghan Oliver Clarkson</name>
+<image alt="Meghan Oliver Clarkson" width="250" height="68">real-estate-agents/meghan-clarkson.jpg</image>
+<description>
+I am Meghan Oliver Clarkson, a Licensed REALTOR and Associate Broker with LONG &amp; FOSTER Real Estate Eastern Shore, serving both Virginia and Maryland. 
+As a career professional with over 15 years of experience under my belt, I have learned that timing is everything! You can count on me to respond to your 
+real estate needs 24/7 and lightning fast! Real estate is my passion. I speak it fluently and frequently, and cannot imagine myself doing anything else! 
+I excel in customer service with buyers and sellers and have a long list of satisfied customers &amp; clients that sing my praises and will testify to my ability.
+</description>
+<location>6426 Maddox Blvd Suite B, Chincoteague VA 23336</location>
+<phone>757-894-0798</phone>
+<email>Meghan.Oliver@LongandFoster.com</email>
+<website>https://www.longandfoster.com/MeghanOliver</website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+
+</real-estate-agent-listings>

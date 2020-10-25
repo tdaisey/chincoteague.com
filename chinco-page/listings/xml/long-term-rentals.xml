@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<long-term-rental-listings>
+
+<!-- Empty hotel listing 
+<listing>
+<name></name>
+<image alt="" width="320" height="">hotels/</image>
+<description>
+</description>
+<location></location>
+<phone></phone>
+<email></email>
+<website></website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+-->
+
+<!--
+<listing>
+<name categories="Map View">Bradley Lane House</name>
+<image alt="Bradley Lane House" width="220" height="165">long-term-rentals/bradleylane.jpg</image>
+<description>
+The Bradley Lane House is a very nice, newer Cape Cod style home. It's located off of Ridge Road on a canal in a quiet residential area. Master bedroom with 2 double beds, connecting full bath, large walk-in closest. Other beds include two twin beds, a double bed, and a queen sleep sofa. House is on pilings with parking underneath and a large storage area for bikes and beach equipment. Full deck across front of house and back deck with gas grill. $1,200 per month plus utilities. 
+</description>
+<location>Bradley Lane, Chincoteague VA 23336</location>
+<phone>757-336-5667 or 757-336-6766</phone>
+<email>dovewinds7@gmail.com</email>
+<website>http://chincoteague.com/bradleylane/</website>
+<lat>37.92719</lat>
+<long>-75.37585</long>
+<gm_link></gm_link>
+</listing>
+-->
+
+<listing>
+<name categories="List View,Map View">Dove Winds Apartments</name>
+<image alt="Dove Winds Apartments" width="220" height="146">long-term-rentals/dovewinds.jpg</image>
+<description>
+Our two-story apartments include two separate bedrooms, 1.5 baths and a full kitchen. Downstairs you will find a comfortable living area with a futon, a kitchen area 
+with refrigerator, full size range, microwave, and dining table, and a full bathroom with a shower. Upstairs includes two bedrooms with queen size beds and a half 
+bathroom. There is a deck and a seasonal indoor heated pool. Laundry facilities are available on the premises. The location is ideal, just 1/4 mile from the entrance to 
+the Chincoteague National Wildlife Refuge and only minutes from the beach. The maximum occupancy for our apartments is two people. $850 per month, plus electric. 
+Includes basic cable, basic internet, and water. Contact 757-336-5667 for a rental application. No smoking.
+</description>
+<location>7023 Maddox Blvd. Chincoteague, VA 23336</location>
+<phone>757-336-5667</phone>
+<email>dovewinds7@gmail.com</email>
+<website>http://www.dovewinds.com/apartments.html</website>
+<lat>37.925728</lat>
+<long>-75.353712</long>
+<gm_link>https://goo.gl/maps/gso1O</gm_link>
+</listing>
+
+</long-term-rental-listings>

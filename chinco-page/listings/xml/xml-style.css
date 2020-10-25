@@ -1,0 +1,40 @@
+listing
+{
+	display: block;
+	margin-top: 10pt;
+}
+name
+{
+	font-family: arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #000000;
+	font-style: normal;
+	font-weight: bold;
+	margin-left: 5pt;
+}
+image
+{
+	display: block;
+	font-family: arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #000000;
+	font-style: normal;
+	margin-left: 5pt;
+}
+description
+{
+	display: block;
+	font-family: arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #000000;
+	font-style: normal;
+	margin-left: 5pt;
+}
+location, phone, email, website, lat, long, gm_link
+{
+	display: block;
+	font-family: arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #000000;
+	margin-left: 5pt;
+}

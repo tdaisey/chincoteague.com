@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<carryout-listings>
+
+<!-- Empty listing 
+<listing>
+<name></name>
+<image alt="" width="320" height="">carryout/</image>
+<description>
+</description>
+<location></location>
+<phone></phone>
+<email></email>
+<website></website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+-->
+
+<listing>
+<name categories="List View,Map View">Church Street Produce</name>
+<image alt="Church Street Produce" width="220" height="165">carryout/church-street-produce.jpg</image>
+<description>
+"Fresh As It Gets" is the motto at Church Street Produce -- a seasonal walk-in produce shop with a yummy twist -- located on Chincoteague Island. We sell fresh sweet corn, ripe tomatoes, juicy peaches, plums, lopes, melons, berries and more, along with fresh-clipped herbs and our own bag ice. Smells wafting from the kitchen might be signaling a tripleberry pie, rich brownie or cookie, or even a savory, cheesy tomato pie -- a customer favorite! Mostly all made to order... no orders taken by voicemail or Facebook. Happy-to-see-you service and a fun, shabby chic atmosphere make Church Street Produce a place to pop into again and again.
+</description>
+<location>6493 Church Street, Chincoteague VA 23336</location>
+<phone></phone>
+<email></email>
+<website>ChurchStreetProduce/</website>
+<lat>37.929059</lat>
+<long>-75.368284</long>
+<gm_link></gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Gary Howard's Seafood</name>
+<image alt="Gary Howards Seafood" width="220" height="223">carryout/gary-howards-seafood.jpg</image>
+<description>
+At Gary Howard Seafood you can find the freshest local seafood our waters have to offer. Fish and scallops are fresh caught right off the boat daily, like so much other seafood we carry. Clams, oysters, and crabs are caught by our own watermen. We also have beautiful white shrimp, wild caught salmon, snowcrab legs and much, much more. If you don’t feel like cooking, we can do that for you too. Just ask the locals where they prefer to get their seafood and they will tell you…. “Go to Gary’s”. Just ask around, we’re the best in town!
+</description>
+<location>5315 Deep Hole Rd., Chincoteague VA 23336</location>
+<phone>757-336-5178</phone>
+<email></email>
+<website>https://www.facebook.com/garyhowardseafood/</website>
+<lat>37.93720</lat>
+<long>-75.35113</long>
+<gm_link>https://goo.gl/maps/JneKysxVYB12</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">J &amp; B Subs</name>
+<image alt="Gary Howards Seafood" width="220" height="140">carryout/jandbs.jpg</image>
+<description>
+We've been serving customers on Chincoteague Island since 1969. We did not become Chincoteague's most popular sub shop by accident. We use 
+only the highest quality meats, breads, and ingrediants. Taste the difference quality makes. Breakfast sandwiches, lunch sandwiches, hot and 
+cold subs, pizza, french fries, beer, and wine. Try our World Famous Cheesesteaks or Authentic Italians!
+</description>
+<location>3571 Main Street, Chincoteague VA 23336</location>
+<phone>757-336-5500</phone>
+<email></email>
+<website>http://www.chincoteague.com/jandbs.html</website>
+<lat>37.925914</lat>
+<long>-75.387764</long>
+<gm_link>https://goo.gl/maps/x5aux3je5fB2</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Ricky's Seafood and Produce Market</name>
+<image alt="Rickys Seafood and Produce Market" width="220" height="148">carryout/rickys-seafood-and-produce.jpg</image>
+<description>
+Ricky's Seafood and Produce Market is your one stop shop for fresh, local seafood and produce. At Ricky's Seafood and Produce Market you'll find everything you need for your family vacation seafood feast. Ricky Howard has spent a lifetime harvesting seafood on the waters surrounding Chincoteague Island. Ricky and his wife Ann have been selling seafood and produce from their market since 1991. Over the years Ricky and Ann have built a reputation for selling only the highest quality seafood and produce.
+</description>
+<location>7432 Beebe Road, Chincoteague VA 23336</location>
+<phone>757-336-6867</phone>
+<email></email>
+<website>rickys-seafood/</website>
+<lat>37.91560</lat>
+<long>-75.39324</long>
+<gm_link>https://goo.gl/maps/ZMfDrG6KW9H2</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Tom's Cove Aquafarms</name>
+<image alt="Toms Cove Aquafarms" width="220" height="88">carryout/toms-cove-acquafarms.jpg</image>
+<description>
+Tom's Cove Aquafarms is proud to offer the finest and freshest Shellfish harvested from the cool, clear waters found around the historic seafood town of Chincoteague Island, Virginia. Our farm raised clams and cultured salt oysters are grown in the waters adjacent to the beautiful Assateague Island National Seashore, home of the world famous Chincoteague wild ponies.
+</description>
+<location>Ridge Road, Chincoteague Island, VA 23336</location>
+<phone>757-336-1945</phone>
+<email></email>
+<website>http://www.tomscove.net/</website>
+<lat>37.91449</lat>
+<long>-75.38830</long>
+<gm_link>https://goo.gl/maps/MzQVrkjPGnP2</gm_link>
+</listing>
+
+</carryout-listings>

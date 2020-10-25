@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<bait-and-tackle-shop-listings>
+
+<!-- Empty listing 
+<listing>
+<name></name>
+<image alt="" width="320" height="">activities/</image>
+<description>
+</description>
+<location></location>
+<phone></phone>
+<email></email>
+<website></website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+-->
+
+<!-- Category: Bait and Tackle Shops -->
+
+<listing>
+<name categories="Bait and Tackle Shops,Map View">Capt. Bob's Marina</name>
+<image alt="Capt. Bobs Marina" width="241" height="182">activities/capt-bobs.jpg</image>
+<description>
+The pronoun "your" is important to the crew at Capt. Bob's. Our motto &amp; mission (short but a commitment) is "Your vacation pleasure is our business" and at 
+Capt. Bob's, we work hard to make that happen for you. Regardless what your water related interest is - we will help make your vacation more enjoyable. At 
+Capt. Bob's, we will share fishing information with you, telling the "hot spots" and which baits are being used. If crabbing is what makes your day, then by 
+all means, come by and see us! We have crabbing specials for a family of four, you can crab free in our crabbing area or we can turn you on to other
+"producing crab holes" and the crabs are meaty, too! We have charters that will satisfy your desire for fishing inshore or wrecks or offshore big game fish. 
+Also we offer clamming, crabbing or awesome nature charters. For the best selection of fishing/crabbing apparel on the island, pay us a visit - you'll be 
+happy you did!!
+</description>
+<location>2477 Main Street, Chincoteague VA 23336</location>
+<phone>757-336-6654</phone>
+<email>marina95@verizon.net</email>
+<website>http://captbobsmarina.net/</website>
+<lat>37.909131</lat>
+<long>-75.401316</long>
+<gm_link>https://goo.gl/maps/NeQG74bQkMG2</gm_link>
+</listing>
+
+<listing>
+<name categories="Bait and Tackle Shops,Map View">Captain Steve's</name>
+<image alt="Captain Steves" width="242" height="179">activities/captain-steves.jpg</image>
+<description>
+Captain Steve's Bait and Tackle is your source for Chincoteague Island fishing tackle, bait and equipment. We specialize in surf, bay fishing (esp. flounder), and 
+offshore fishing and we carry a wide selection of rods, reels, lures and tackle for all local fishing needs. Here at Captain Steve's we also carry a variety of 
+custom made rigs which have been proven for years. Our East Coast Flounder rigs have been our most popular rig for around 10 years now. Our custom made Assateague 
+Mod. fishfinder rigs have been the go to rig for big fish off the surf. Swing on in and let our family help you have your most enjoyable fishing experience. Capt. 
+Steve's is your saltwater outfitter for surf fishing, bay fishing and offshore fishing! 
+</description>
+<location>6527 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>757-336-0569 or 757-336-0568</phone>
+<email>info@stevesbaitandtackle.com</email>
+<website>http://www.stevesbaitandtackle.com/</website>
+<lat>37.930586</lat>
+<long>-75.359510</long>
+<gm_link>https://goo.gl/maps/VxXHoH1oqeC2</gm_link>
+</listing>
+
+<listing>
+<name categories="Bait and Tackle Shops,Map View">Snug Harbor</name>
+<image alt="Snug Harbor" width="242" height="142">activities/snug-harbor.jpg</image>
+<description>
+Snug Harbor Marina has a large fleet of boats for rent. Snug Harbor offers Carolina Skiffs, Bentley pontoon boats and Old Town canoes and kayaks. Chincoteague 
+Island is one of the most incredible places you will ever visit and if you want to get the best experience and see all Chincoteague has to offer, you must be in a 
+boat. The name Chincoteague is an Indian name that means beautiful land across the water and the only way to see what the Indians did is tour the islands by water, 
+just like the natives.
+</description>
+<location>7536 East Side Road, Chincoteague VA 23336</location>
+<phone>757-336-6176</phone>
+<email>snugharbor@verizon.net</email>
+<website>http://chincoteagueaccommodations.com/</website>
+<lat>37.916968</lat>
+<long>-75.373428</long>
+<gm_link>https://goo.gl/maps/D3GhngzBSxm</gm_link>
+</listing>
+
+</bait-and-tackle-shop-listings>

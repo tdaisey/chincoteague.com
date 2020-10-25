@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<campground-listings>
+
+<!-- Empty listing 
+<listing>
+<name></name>
+<image alt="" width="320" height="">campgrounds/</image>
+<description>
+</description>
+<location></location>
+<phone></phone>
+<email></email>
+<website></website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+-->
+
+<listing>
+<name categories="List View,Map View">Chincoteague Island KOA</name>
+<image alt="Chincoteague Island KOA" width="220" height="220">campgrounds/koa.jpg</image>
+<description>
+CLOSEST CAMPGROUND TO ASSATEAGUE BEACH AND NATIONAL WILDLIFE REFUGE. For your convenience, we take reservations! We offer a swimming pool, playground, pavilion, grocery store &amp; RV supplies, gift shop, recreation hall, laundry room, four modern bath houses with hot showers, propane filling station, dump station, duck pond and storage area. 
+</description>
+<location>6742 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>757-336-3111</phone>
+<email>chincoteague@koa.com</email>
+<website>http://koa.com/campgrounds/chincoteague/</website>
+<lat>37.926179</lat>
+<long>-75.356096</long>
+<gm_link>https://goo.gl/maps/H76ASz2cxTq</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Pine Grove Campground</name>
+<image alt="Pine Grove Campground" width="220" height="179">campgrounds/pinegrove.jpg</image>
+<description>
+We are located on 37 acres of overgrown woods filled with yellow pine trees. There are six ponds that serve as a sanctuary for over 50 different species of ducks, geese, swans, pheasants, and other wildlife. There is a public boat ramp and crabbing dock within walking distance of the campground. You are only a few minutes away from the town, doctors, shopping and the Assateague National Seashore and Wildlife Refuge that has miles of wild beach and nature trails, where Chincoteague Ponies roam free. Pine Grove Campground is open from April to December.
+</description>
+<location>5283 Deep Hole Road, Chincoteague VA 23336</location>
+<phone>757-336-5200</phone>
+<email>pinegrovecampground@verizon.net</email>
+<website>http://www.pinegrovecampground.com/</website>
+<lat>37.937552</lat>
+<long>-75.35198</long>
+<gm_link>https://goo.gl/maps/hHZyFRs7b542</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Tom's Cove Campground</name>
+<image alt="Toms Cove Campground" width="220" height="179">campgrounds/tomscove.jpg</image>
+<description>
+With our three fishing piers, boat ramp and marina, we are well equipped to handle all your fishing needs. While Dad is out fishing, the kids can spend their time in our clubhouse playing video games, pool, or just listening to the jukebox. Meanwhile, Mom can lounge away the day working on her tan on the deck of our large swimming pool. Campers and non-campers alike can enjoy our large country store stocked with souvenirs, gift items, t-shirts, fishing tackle and camping supplies. We also have a grocery section to fill your needs.
+</description>
+<location>8128 Beebe Road, Chincoteague VA 23336</location>
+<phone>757-336-6498</phone>
+<email>tomscovepark@verizon.net</email>
+<website>http://www.tomscovepark.com/</website>
+<lat>37.910352</lat>
+<long>-75.383755</long>
+<gm_link>https://goo.gl/maps/vze7WBUzWGx</gm_link>
+</listing>
+
+</campground-listings>

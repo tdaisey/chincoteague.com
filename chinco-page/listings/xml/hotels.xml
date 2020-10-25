@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<hotel-listings>
+
+<!-- Empty hotel listing 
+<listing>
+<name></name>
+<image alt="" width="320" height="">hotels/</image>
+<description>
+</description>
+<location></location>
+<phone></phone>
+<email></email>
+<website></website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+-->
+<listing>
+<name categories="Map View">Anchor Inn</name>
+<image alt="anchor inn room" width="250" height="188">hotels/anchor-inn.jpg</image>
+<description>
+Simply inspired by the natural elements of sand, sea, and sky, the Anchor Inn is beautifully unpretentious, a reflection of our guest's simplicity, good taste and lifestyle. Feel the distinction, the 
+subtleties and casual style the moment you enter one of our twenty one elegantly appointed rooms. Our premier renovated waterfront property lies on a quiet island off Virginia's seashore. Savor fresh 
+seafood and admire waterfront sunsets and wild ponies. Walk from our Main Street hotel to quaint boutique shops and restaurants. Find the beach with its water sports activities and the Chincoteague National 
+Wildlife Refuge, just two miles from our hotel. Explore family fun at the NASA Flight Facility Visitor Center, only five miles away. Start your sightseeing or work day with your complimentary continental 
+breakfast served at our hotel daily. Relax in a comfortable king- or queen-sized bed in one of our 21 guest rooms with private balconies, featuring tranquil bay views from our balconies. Each room is 
+equipped with free internet access, a 42-inch HDTV, microwave and mini-refrigerator. Relax and unwind with us! 
+</description>
+<location>3791 Main Street, Chincoteague VA 23336</location>
+<phone>757-336-6313</phone>
+<email>anchorinnhotel@comcast.net</email>
+<website>http://www.anchorinnhotel.com</website>
+<lat>37.93012</lat>
+<long>-75.38239</long>
+<gm_link>http://goo.gl/maps/jUOjL</gm_link>
+</listing>
+
+<listing>
+<name categories="Map View">Assateague Inn Retreat on the Creek</name>
+<image alt="Assateague Inn Retreat" width="250" height="229">hotels/assateagueinn.jpg</image>
+<description>
+Assateague is an American Indian word for "a place across" ...... implying that it lies across the water from the mainland. And so our 
+Inn, Assateague Inn, lies across from the mainland on Chincoteague Island.... It's a place where you leave your cares of the world on the 
+mainland...and relax and enjoy life on the island. You'll find that Assateague Inn nestled among the loblolly pines and quiet marshlands of 
+Chincoteague Island, overlooking a small salt water creek. Your room or suite is an ever-changing panoramic view of creek, marsh, woods and 
+wildlife, whether it be summer, fall, winter or Spring....each season holds its own kind of special beauty. 
+</description>
+<location>6570 Coach's Lane, Chincoteague VA 23336 </location>
+<phone>757-336-3738</phone>
+<email>stay@assateague-inn.com</email>
+<website>https://www.seasidevacations.rentals/community/assateague-inn?CommunityID=5279</website>
+<lat>37.928880</lat>
+<long>-75.359699</long>
+<gm_link></gm_link>
+</listing>
+
+<!--
+<listing>
+<name categories="Map View">Atlantic Shores Inn and Suites</name>
+<image alt="Rodeway Inn" width="250" height="180">hotels/atlantic_shores.jpg</image>
+<description>
+Friendly, Informal, Affordable!<![CDATA[<br>]]>
+Atlantic Shores Inn and Suites on beautiful Chincoteague Island, Virginia, is a totally updated and renovated hotel featuring Eastern Shore Southern Hospitality in a beautiful Island setting. Whether you're 
+here for business or pleasure, welcome to the Atlantic Shores Inn and Suites! <![CDATA[<em>]]>"...every room has been completely redone from the floor to the ceiling..."<![CDATA[</em>]]>  Our brand new web site 
+is coming soon!
+</description>
+<location>6273 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>800-221-7490 or 757-336-6565</phone>
+<email>atlanticshores.innandsuites@gmail.com</email>
+<website>http://www.atlanticshores.com</website>
+<lat>37.935158</lat>
+<long>-75.366052</long>
+<gm_link></gm_link>
+</listing>
+-->
+
+<listing>
+<name categories="Map View">Best Western Chincoteague Island</name>
+<image alt="best western hotel" width="250" height="167">hotels/bestwestern.jpg</image>
+<description>
+Our location at the entrance to Assateague National Seashore offers our guests the closest accommodations to the untouched, unspoiled 
+beaches and easy access to the many trails, wildlife loop and nature programs, exhibits and activities. Individual Heat &amp; Air 
+Conditioning Our services include Color T.V. with Remote, Free Cable and HBO, Refrigerators, FAX Service, Balconies overlooking 
+Assateague and Lighthouse, Non-Smoking Rooms Avalible, Large Pool, Gazzebo, Picnic Tables, Bar-B-Q Grills and Elevator Service. 
+</description>
+<location>7105 Maddox Blvd, Chincoteague VA 23336 </location>
+<phone>800-553-6117 </phone>
+<email>info@chincoteague-hotel.com</email>
+<website>http://www.chincoteague-hotel.com/</website>
+<lat>37.923343</lat>
+<long>-75.352645</long>
+<gm_link>http://goo.gl/maps/ZlwRZ</gm_link>
+</listing>
+
+<!--
+<listing>
+<name categories="Map View">Birchwood Motel</name>
+<image alt="birchwood motel" width="250" height="188">hotels/birchwoodmotel.jpg</image>
+<description>
+Chincoteague Island, Virginia is perfect for those who wish to experience the only unspoiled beaches of the East Coast. Come stay with us at the Birchwood Motel and allow our friendly staff to show you all that our Islands have to offer. For a night or a week the Birchwood Motel will have something for everyone, come stay and see why so many travelers call us home while visiting Chincoteague Island, Virginia. 
+</description>
+<location>3650 Main Street Chincoteague, VA 23336 </location>
+<phone>757-336-6133</phone>
+<email>info@mybirchwoodmotel.com</email>
+<website>http://www.mybirchwoodmotel.com/</website>
+<lat>37.92790</lat>
+<long>-75.38519</long>
+<gm_link>http://goo.gl/maps/3N9yb</gm_link>
+</listing>
+-->
+
+<listing>
+<name categories="Map View">Chincoteague Inn</name>
+<image alt="Chincoteague Inn Motel" width="250" height="188">hotels/chincoteague-inn.jpg</image>
+<description>
+The Chincoteague Inn is centrally located near all the top attractions and offers clean spacious, affordable accommodations and recreation facilities.  You'll enjoy guest service from our courteous, attentive staff 
+who will be sure your stay is comfortable and relaxing. We offer a broad range of thoughtful amenities in your room including free Wi-Fi, refrigerators, microwaves, complimentary coffee, and hairdryers. Outdoors 
+you'll find our swimming pool, barbecue grills, volleyball and badminton areas, corn toss games and a screened pavilion. The hotel provides an ideal environment for picnics and group gatherings.
+</description>
+<location>Chincoteague VA 23336</location>
+<phone>757-336-6415</phone>
+<email>chincoteague@comcast.net</email>
+<website>http://www.chincoteagueinnmotel.com/</website>
+<lat>37.934402</lat>
+<long>-75.364691</long>
+<gm_link>https://goo.gl/maps/LsfQBEDdgn72</gm_link>
+</listing>
+
+<listing>
+<name categories="Map View">Comfort Suites</name>
+<image alt="comfort suites hotel" width="250" height="168">hotels/comfort-suites.jpg</image>
+<description>
+Welcome to Chincoteague Island... where the Award Winning Comfort Suites awaits you! Let us share our hospitality, scenic views and relaxing, spacious accommodations while you enjoy the natural beauty and outdoor adventures on Virginia's only resort island. Whether traveling for business or pleasure, the Comfort Suites offers a list of amenities to suit all needs. Every suite has a private waterfront balcony, microwave, refrigerator, coffee maker and free wifi. A hot breakfast buffet is available every morning from 6am to 11am. After breakfast, relax in the indoor pool and hot tub or catch some sun at the outdoor pool. Our boardwalk is a great place to fish, crab or just enjoy the wildlife! Our newly remodled fitness center is open 24 hours to fit anyones schedule. Located downtown, the Comfort Suites is just minutes away from local shops, restaurants, Assateague National Wildlife Refuge, Assateague Lighthouse, Wallops Island and much more. Be sure to "Like" us on Facebook to stay up to date on events and special offers. Call today or visit our website! Comfort Suites...where your satisfaction is guaranteed! 
+</description>
+<location>4195 Main St. Chincoteague VA 23336</location>
+<phone>757-336-3700</phone>
+<email>gm.va067@choicehotels.com</email>
+<website>http://www.chincoteaguecomfortsuites.com/</website>
+<lat>37.936769</lat>
+<long>-75.373636</long>
+<gm_link>http://goo.gl/maps/5LpYX</gm_link>
+</listing>
+
+<listing>
+<name categories="Map View">Fairfield Inn &amp; Suites by Marriott Chincoteague Island</name>
+<image alt="fairfield inn hotel" width="250" height="166">hotels/fairfield-inn-chincoteague.jpg</image>
+<description>
+Located on a barrier island off the Eastern Shore of Virginia, the Fairfield Inn &amp; Suites Chincoteague is the ideal place to relax and unwind. A short two mile drive will have you exploring the 
+Chincoteague National Wildlife Refuge and the Assateague Lighthouse. Or take a stroll down Main Street and Maddox Streets which feature local shops and restaurants. Learn about NASA and Rocket Launches 
+at the Wallops Island Flight Facility only five miles away. When not out exploring, relax with us! Located on the bay, our seasonal pool and dock provide hours of fun and the perfect sunsets. Our rooms 
+all have in room coffee, microwaves, refrigerators and free high speed internet. Whether you’re off to work or the Chincoteague Pony Swim, our hot breakfast will get you up and moving in the mornings. 
+Our friendly and knowledgeable staff will exceed your expectations making sure your stay at the Fairfield Inn &amp; Suites Chincoteague is enjoyable and relaxing. 
+</description>
+<location>3913 Main Street Chincoteague, VA 23336</location>
+<phone>757-336-0043 or 757-336-0048</phone>
+<email>Heidi.Selby@marriott.com</email>
+<website>http://www.marriott.com/hotels/travel/sbyci-fairfield-inn-and-suites-chincoteague-island/</website>
+<lat>37.933043</lat>
+<long>-75.380744</long>
+<gm_link>https://goo.gl/maps/DDaEQ</gm_link>
+</listing>
+
+<listing>
+<name categories="Map View">Hampton Inn &amp; Suites of Chincoteague Island</name>
+<image alt="hampton inn hotel" width="250" height="196">hotels/hamptoninn-listing.jpg</image>
+<description>
+Awarded #2 Hampton Inn in the Country for 2019! This family owned and operated award winning hotel is ideally located on the waterfront in historic downtown 
+Chincoteague, within walking distance of shops, restaurants, art galleries, boat rentals, and many of the Island's special events. We are the #2 Hampton Inn in 
+the Country because we are mindful of the little things, those handy amenities and thoughtful extras that turn an ordinary hotel stay into an extraordinary one. 
+Clean and comfortable. Friendly award-winning staff. Complimentary Hot Breakfast. Waterfront Lounge and Veranda. Wireless Internet. Fitness Room. Indoor Heated 
+Pool. Business Center and Meeting Room. Reservations can made by calling 757-336-1616 or on our web site.
+</description>
+<location>4179 Main Street Chincoteague, VA 23336</location>
+<phone>757-336-1616</phone>
+<email>Thomas.Derrickson@hilton.com</email>
+<website>http://www.hamptoninnchincoteague.com/</website>
+<lat>37.935801</lat>
+<long>-75.374674</long>
+<gm_link>http://goo.gl/maps/9Y3m8</gm_link>
+</listing>
+
+<listing>
+<name categories="Map View">Holiday Cottages</name>
+<image alt="holiday cottages" width="250" height="262">hotels/holiday-cottages.jpg</image>
+<description>
+Holiday Cottages offers a unique vacation experience on beautiful Chincoteague Island.  Our 1-bedroom &amp; 2-bedroom cottages are perfect for families with children, 
+family reunions, or for a couple who want to enjoy the privacy of their own cottage. Each cottage offers a fully-equipped kitchen, dining area, &amp; living room with 
+cable TV, and high-speed wireless internet.  You can park right outside your door. Grills are accessible with picnic tables provided for each cottage. Our guests also 
+have access to a 24-hour linen room. Enjoy our newly renovated pool, pergola, &amp; deck for relaxing. We have tetherball &amp; corn hole, and for the kids a playground 
+&amp; large sandbox. Thank You to all of our friends and guests who stay at Holiday Cottages and return year after year.  We pride ourselves on our customer service and 
+family friendly atmosphere that will help ensure you have a memorable vacation experience.
+</description>
+<location>6113 Taylor Street, Chincoteague VA 23336 </location>
+<phone>757-336-6256</phone>
+<email></email>
+<website>http://holidaycottageschinco.com/</website>
+<lat>37.937898</lat>
+<long>-75.368993</long>
+<gm_link>https://goo.gl/maps/RbknkG1gmAK2</gm_link>
+</listing>
+
+<listing>
+<name categories="Map View">Island Resort</name>
+<image alt="Island Resort" width="250" height="134">hotels/islandmotorinn.jpg</image>
+<description>
+The Island Resort has been family owned and operated on Chincoteague Island since 1982. The location affords a beautiful expansive view of the water, especially of the sunsets. It faces the inter-coastal waterway 
+and Chincoteague Bay that is one of the most pristine bodies of water left on the East Coast. Every room has a waterfront view. In addition to the hotel’s beautiful settings and waterfront views, we also feature 
+a free continental breakfast, a full service gym, equipped with Hammer Strength Machines, free weights and cardio equipment. We also feature an indoor pool, an outdoor pool, and a hot tub room. You will find 
+that it is one of the best-kept establishments on Chincoteague Island and one of the best-kept secrets!
+</description>
+<location>4391 Main Street, Chincoteague VA 23336</location>
+<phone>757-336-3141</phone>
+<email>reservations@islandmotorinnresort.com</email>
+<website>http://www.islandresortinn.com/</website>
+<lat>37.939879</lat>
+<long>-75.370059</long>
+<gm_link>http://goo.gl/maps/snuJD</gm_link>
+</listing>
+
+<listing>
+<name categories="Map View">Marina Bay Hotel &amp; Suites</name>
+<image alt="Marina Bay Hotel" width="250" height="188">hotels/marina-bay-hotel-and-suites.jpg</image>
+<description>
+In 2019, stay at The Waterfront Marina Bay Hotel &amp; Suites and save 15% off your entire stay. Book using the link below and save 15% during the entire year. This is a limited promotion and is available only in limited quantities everyday. Our brand new hotel features 76 thoughtfully designed rooms with distinct water views, free high speed internet, outdoor pool, fire pits and boat slips. We also offer a complimentary deluxe gourmet breakfast every morning and a private marina for you to relax. Come experience and enjoy Chincoteague with us.
+</description>
+<location>3801 Main Street, Chincoteague VA 23336</location>
+<phone>757-336-3500</phone>
+<email>staymarinabay@gmail.com</email>
+<website>https://bit.ly/2wdRWCv</website>
+<lat>37.9305037</lat>
+<long>-75.3822084</long>
+<gm_link>https://goo.gl/maps/5mme9Erf9mw</gm_link>
+</listing>
+
+<listing>
+<name categories="Map View">Refuge Inn</name>
+<image alt="Refuge Inn" width="250" height="167">hotels/refugeinn.jpg</image>
+<description>
+The Refuge Inn is within walking distance of the Chincoteague National Wildlife Refuge and only minutes from the beaches of the Assateague Island National Seashore. Nestled in whispering pines, the Inn is open year round and offers comfortable rooms and suites with private decks, balconies or patios, an indoor/outdoor pool, whirlpool, sauna, exercise room, sun deck, and a guest laundry. In addition, we have bicycle rentals, a gift shop, hibachis, and picnic areas. Chincoteague ponies graze with their foals in our on-site pasture, and our conference room is ideal for meetings, parties, reunions, and training sessions. 
+</description>
+<location>7058 Maddox Boulevard, Chincoteague VA 23336 </location>
+<phone>757-336-5511 or 888-868-6200</phone>
+<email>refugeinn@verizon.net</email>
+<website>http://www.refugeinn.com/</website>
+<lat>37.924577</lat>
+<long>-75.354104</long>
+<gm_link>http://goo.gl/maps/aEB86</gm_link>
+</listing>
+
+<listing>
+<name categories="Map View">Sea Hawk Motel</name>
+<image alt="SeaHawk Motel" width="250" height="188">hotels/seahawkmotel.jpg</image>
+<description>
+"GET SPOILED ON UNSPOILED CHINCOTEAGUE ISLAND"<![CDATA[<br>]]>
+The Sea Hawk has the widest selection of room types in the area. Single and double motel rooms and efficiency apartments with one or two bedrooms. Located on Maddox Boulevard only minutes from Assateague National Seashore and the Chincoteague National Wildlife Refuge. The beach is the finest on the East Coast for swimming, surfing and surf-fishing. The nature trails in the Refuge are the best for bird-watching, wildlife tours and seeing the famous Chincoteague Wild Ponies in their natural habitat. 
+</description>
+<location>6250 Maddox Blvd, Chincoteague VA 23336 </location>
+<phone>757-336-6527 or 757-824-5377</phone>
+<email>seahawk@esva.net</email>
+<website>http://www.esva.net/%7Eseahawk/</website>
+<lat>37.934775</lat>
+<long>-75.367559</long>
+<gm_link>http://goo.gl/maps/GQPzk</gm_link>
+</listing>
+
+<listing>
+<name categories="Map View">Sea Shell Motel</name>
+<image alt="Sea Shell Motel" width="250" height="150">hotels/sea-shell-motel-banner.jpg</image>
+<description>
+Day or night the Sea Shell Motel is a center of hospitality and comfort. Conveniently located, and yet removed from traffic noise, to the beautiful Assateague National Seashore and the Chincoteague Wildlife Refuge with its nature trails, old Lighthouse, and exhibits. The motel is comprised of three seperate buildings and is located in a quiet residental area. Our pool is 20' X 40' and situated between two of the motel buildings. Also enjoy our "Summer Kitchen", for outdoor cooking and eating. 
+</description>
+<location>3720 Willow Street, Chincoteague VA 23336 </location>
+<phone>757-336-6589</phone>
+<email></email>
+<website>http://www.seashellmotel.org/</website>
+<lat>37.93111</lat>
+<long>-75.37478</long>
+<gm_link>http://goo.gl/maps/vTSWW</gm_link>
+</listing>
+
+<listing>
+<name categories="Map View">Snug Harbor</name>
+<image alt="Snug Harbor" width="250" height="170">hotels/snug-harbor.jpg</image>
+<description>
+You can lose yourself in this tropical paradise! It's a celebration of nature in its most magnificent form, as the wild Chincoteague ponies run up and down the marshland, the local birds will sing you a song. As this perfect day comes to an end, the laid back reggae tunes will set the mood for the miraculous montage of Caribbean colors that make Chincoteague sunsets so desired! As you're moved by the awe-inspiring experience, you'll realize there is no place on earth quite like Snug Harbor. Snug Harbor has waterfront cottages that overlook Assateague Island and the wild Chincoteague ponies. All the cottages vary in size and price please call the reservation hotline to get the best current promotions 757-336-6176. 
+</description>
+<location>7536 East Side Road, Chincoteague VA 23336</location>
+<phone>757-336-6176</phone>
+<email>snugharbor@verizon.net</email>
+<website>http://www.chincoteagueaccommodations.com/</website>
+<lat>37.91722</lat>
+<long>-75.37422</long>
+<gm_link>http://goo.gl/maps/SHDV2</gm_link>
+</listing>
+
+<listing>
+<name categories="Map View">Waterside Inn</name>
+<image alt="Waterside Inn" width="250" height="203">hotels/waterside-inn-pic.jpg</image>
+<description>
+The Waterside Inn offers one-of-a-kind accommodations, exceptional customer service and a beautiful waterfront setting on the Chincoteague Bay. Our unique family owned and operated Inn features all waterfront rooms with private balconies, a heated waterfront pool, a private marina, fishing pier and many more upscale amenities. The hotel is within walking distance to historic downtown including many shops and restaurants. We are located within a short driving distance to the unspoiled beaches of Assateague Island and Nasa Wallops Flight Facility. 
+</description>
+<location>3761 Main Street, Chincoteague VA 23336</location>
+<phone>877-870-3434</phone>
+<email>reservations@watersidemotorinn.com</email>
+<website>http://www.watersidemotorinn.com/</website>
+<lat>37.92952</lat>
+<long>-75.38315</long>
+<gm_link>http://goo.gl/maps/3t1sM</gm_link>
+</listing>
+
+</hotel-listings>

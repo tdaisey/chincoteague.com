@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<ice-cream-parlor-listings>
+
+<!-- Empty listing 
+<listing>
+<name></name>
+<image alt="" width="320" height="">ice-cream-parlors/</image>
+<description>
+</description>
+<location></location>
+<phone></phone>
+<email></email>
+<website></website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+-->
+
+<listing>
+<name categories="List View,Map View">Island Creamery</name>
+<image alt="Island Creamery" width="220" height="104">ice-cream-parlors/island-creamery.png</image>
+<description>
+When visiting Chincoteague Island be sure to visit the Island Creamery, where our frozen desserts are hand-made 
+in small batches in our kitchen, ensuring the highest quality. Smell the aroma of freshly baked waffle cones as 
+you enter the Creamery. Choose from over 36 flavors daily of homemade ice cream, sorbet and no fat No Sugar Added 
+frozen yogurt. Relax with a cafe latte or cappuccino on our deck. Choose your favorite flavor to be made into a 
+delicious ice cream cake for your next special occasion. We've been serving our neighbors and making friends 
+since 1975. Come enjoy our homemade ice cream. We feel it is the freshest, most delicious ice cream you'll find anywhere.
+</description>
+<location>6243 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>757-336-6236</phone>
+<email></email>
+<website>http://www.islandcreamery.net/</website>
+<lat>37.935479</lat>
+<long>-75.367444</long>
+<gm_link>https://goo.gl/maps/4vGn32NixYA2</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Mister Whippy</name>
+<image alt="Mister Whippy" width="220" height="148">ice-cream-parlors/mister-whippy.jpg</image>
+<description>
+Family owned and operated, Mister Whippy has been delighting fans of all ages since 1991. On a hot summer’s day, there’s nothing better than cooling off with the island’s best soft serve ice cream. Stop by and choose from our many menu options, including sundaes, shakes, banana splits, waffle cones, and our famous cyclones. In a hurry, try our speedy drive thru service. Be sure to stop by the gift shop and take home your favorite Mister Whippy souvenir. Mister Whippy is sure to become a part of your next vacation. Summer hours: open daily. Spring and fall hours vary.
+</description>
+<location>6201 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>757-336-5122</phone>
+<email></email>
+<website>http://www.misterwhippy.com/</website>
+<lat>37.936008</lat>
+<long>-75.368651</long>
+<gm_link>https://goo.gl/maps/WbJZTveAf4K2</gm_link>
+</listing>
+
+</ice-cream-parlor-listings>

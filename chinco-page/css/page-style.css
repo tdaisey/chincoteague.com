@@ -1,0 +1,434 @@
+/* Style HTML Elements */
+body 
+{
+   font: 400 15px/1.8 Lato, sans-serif;
+   color: #000;
+}
+
+h1 
+{
+	margin: 22px 0 18px 0;
+	letter-spacing: 3px;
+	font-size: 20px;
+	color: #111;
+	text-align: center;
+}
+
+h2 
+{
+	margin: 20px 0 16px 0;
+	letter-spacing: 2px;
+	font-size: 18px;
+	color: #111;
+	text-align: center;
+}
+
+h3 
+{
+	margin: 18px 0 14px 0;
+	letter-spacing: 1px;
+	font-size: 16px;
+	color: #111;
+	text-align: center;
+}
+
+h4 
+{
+	margin: 16px 0 12px 0;
+	letter-spacing: 0px;
+	font-size: 14px;
+	color: #111;
+	text-align: center;
+}	
+
+p
+{
+	color: #000;
+	text-align: left;
+}
+
+ul
+{
+	color: #000;
+	text-align: center;
+}
+
+a
+{
+	color: #000;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+a:hover
+{
+	color: #808080;
+	text-decoration: none;
+}
+
+hr 
+{
+    border: 0;
+    height: 1px;
+	color: #999;
+    background-color: #999;
+}
+
+/* Style Bootstrap Container */
+.container 
+{
+	padding: 15px;
+}
+
+.well
+{
+	
+}
+
+#navbar-container
+{
+	/*background-color: #044f6b;*/
+	background-color: #036;
+	position: -webkit-sticky;
+	position:sticky;
+	top: 0;
+	z-index: 9999;
+}
+
+#social-icon
+{
+	font-size: 32px;
+	padding-right: 5px;
+	/*background-color: #044f6b;*/
+	background: #036;
+	color: white;
+}
+
+.social-small
+{
+	display:none;
+}
+
+/* Style Bootstrap Navigation Bar */
+.navbar {
+	font-family: Montserrat, sans-serif;
+	margin-bottom: 0;
+	/*background-color: #044f6b;*/
+	background-color: #036;
+	border: 0;
+	font-size: 11px !important;
+	letter-spacing: 2px;
+}
+.navbar li a, .navbar .navbar-brand { 
+	color: #fff !important;
+	text-align: center;
+	text-decoration: none;
+}
+.navbar-nav {
+	float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+.navbar-nav li {
+	padding-left: 3px;
+    padding-right: 3px;
+}
+.navbar-nav li a:hover {
+	color: #d5d5d5 !important;
+	text-decoration: underline;
+}
+.navbar-nav li.active a {
+	color: #fff !important;
+	background-color: #036 !important;
+}
+.navbar-default .navbar-toggle {
+	border-color: transparent;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #fff;
+}
+.navbar-default .navbar-toggle .navbar-text {
+	color: #fff;
+}
+.navbar-toggle .icon-bar{
+	width: 32px !important;
+	color: #fff !important;
+}
+.navbar-toggle .navbar-text{
+	font-family: Montserrat, sans-serif;
+	font-size: 10px !important;
+	letter-spacing: 0px;
+}
+/* Dropdown */
+.open .dropdown-toggle {
+  color: #fff;
+  /*background-color: #044f6b;*/
+  background-color: #036 !important;
+}
+.dropdown-menu {
+	/*background-color: #044f6b;*/
+	background-color: #036;
+}
+/* Dropdown links */
+.dropdown-menu li a {
+  color: #fff !important;
+}
+/* On hover, the dropdown links will turn gray */
+.dropdown-menu li a:hover {
+  /*background-color: #044f6b;*/
+  background-color: #036;
+}
+
+/* Style Social Media Icons */
+.social{
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+/* Style Horizontal Menu */
+table.menu{
+	border-collapse: separate;
+	border-spacing: 6px;
+	margin: 0 auto;
+}
+table.menu a{
+	color: #fff;
+	font-family: Montserrat, sans-serif;
+	font-size: 12px !important;
+	text-decoration: none;
+}
+table.menu a:hover{
+	color: #d5d5d5;
+	text-decoration: underline;
+}
+
+/* Style Top Banners */
+table.top-banners{
+	margin:0 auto;
+	border-collapse: separate;
+	border-spacing: 6px;
+	max-width: 768px;		
+}
+table.top-banners img{
+	padding: 0;
+	max-width: 100%;
+	width: 100%;
+	height: auto;
+}
+table.top-banners a:hover{
+	opacity: 0.8;
+}
+
+/* Style the Top Div */
+#top-div
+{
+	background-color: #ECECEC;
+}
+#top-div-logo
+{
+	display: none;
+}
+
+.index-top-pic
+{
+	width: 100%;
+	background-color: #EBEBEB;
+	text-align: center;
+}
+
+.index-top-pic img
+{
+	max-width: 100%;
+	height: auto;
+}
+
+.top-pic
+{
+	width: 100%;
+	background-color: #EBEBEB;
+	text-align: center;
+}
+
+.top-pic img
+{
+	max-width: 100%;
+	height: auto;
+}
+
+.breadcrumb
+{
+	background-color: #FFFFFF;
+}
+
+/* Style the Frontpage Video */
+.frontpage-video-container
+{
+	display:none;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+
+.scalable-banners img
+{
+	max-width:175px;
+	padding:3px;
+	height:auto;
+}
+
+.map-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	overflow: hidden;
+	margin-bottom: 15px;
+}
+
+.map-container iframe {
+	position:absolute;
+	left:0;
+    top:0;
+    height:100%;
+    width:100%;
+}
+
+.map-canvas {
+	position:absolute;
+	left:0;
+    top:0;
+    height:100%;
+    width:100%;
+}
+
+.video-container {
+   position: relative;
+   padding-bottom: 56.25%;
+   height: 0; 
+   overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+}
+
+#googleMap
+{
+	width:100%;
+	height:400px;
+	margin-bottom:15px;
+}
+
+#page-bottom
+{
+	/*background-color: #044f6b;*/
+	background-color: #036;
+	padding: 35px 0px 30px 0px;
+}
+
+#page-bottom p
+{
+	color:white;
+}
+
+#page-bottom a
+{
+	color:white;
+}
+
+#page-bottom img
+{
+	max-width:100%;
+}
+
+@media screen and (min-width: 500px) 
+{
+	h1 
+	{
+		letter-spacing: 8px;
+	}
+	h2 
+	{
+		letter-spacing: 7px;
+	}
+	h3 
+	{
+		letter-spacing: 6px;
+	}
+	h4 
+	{
+		letter-spacing: 5px;
+	}
+}
+	
+@media screen and (min-width: 768px) 
+{
+	#top-div-logo
+	{
+		display: block;
+	}
+	.front-page-news
+	{
+		border-left:1px solid #999999;
+	}
+	.front-page-news:nth-child(1)
+	{
+		border-left:none;
+	}
+	.row.equal 
+	{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.frontpage-video-container
+	{
+		display: block;
+	}
+	.index-top-pic
+	{
+		display:none;
+	}
+	.scalable-banners img
+	{
+		max-width:100%;
+		padding:3px;
+		height:auto;
+	}
+	.container 
+	{
+		padding: 25px;
+	}
+	.social
+	{
+		display:none;
+	}
+	.social-small
+	{
+		display:inline;
+	}
+	.navbar-nav li {
+		display: inline-block;
+		float: none;
+	}
+	#googleMap
+	{
+		width:100%;
+		height:500px;
+	}
+}
+
+@media screen and (min-width: 992px) 
+{
+	#googleMap
+	{
+		width:100%;
+		height:600px;
+	}
+}	
+	

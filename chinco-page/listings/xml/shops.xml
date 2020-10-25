@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<shops-listings>
+
+<!-- Empty listing 
+<listing>
+<name categories=""></name>
+<image alt="" width="320" height="">vacation-rental-companies/</image>
+<description>
+</description>
+<location></location>
+<phone></phone>
+<email></email>
+<website></website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+-->
+
+<listing>
+<name categories="List View,Map View">The Osprey Nest</name>
+<image alt="The Osprey Nest" width="220" height="164">shops/osprey-nest-logo.jpg</image>
+<description>
+The Osprey Nest is Chincoteague's #1 stop for all your art needs and has been serving the community of Chincoteague and visitors for over 30 years. Our 
+Art Gallery features paintings by renoun wildlife artist Kevin McBride. Our Gift Shop features a wide variety of souvenirs and gifts for all ages and 
+budgets. Our exprienced custom framing department uses the materials and technology needed to preserve any type of art. 
+</description>
+<location>4096 Main Street, Chincoteague VA 23336</location>
+<phone>757-336-6042</phone>
+<email>kmcbride@intercom.net</email>
+<website>http://www.chincoteague.com/OspreyNest/</website>
+<lat>37.934181</lat>
+<long>-75.376460</long>
+<gm_link>https://goo.gl/maps/T8jTyuJyxpD2</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Sundial Books</name>
+<image alt="Sundial Books" width="220" height="223">shops/sundial-books-logo.jpg</image>
+<description>
+Sundial Books is Chincoteague's locally owned year 'round full-service bookshop. Our inventory includes two floors of new, used and collectible books, 
+including books about the Island and the Eastern Shore. Browse our eclectic collection of music cd's, as well as jewelry, art, gifts, journals and cards 
+made by local artists. Relax in a comfortable chair and enjoy a cup of Green Mountain coffee or tea. Our goal is to make a space where our customers feel 
+welcome. Check out our website for upcoming author signings, book talks, poetry readings, live music and other events. We specialize in old-fashioned 
+customer service. If you can't find a book you are looking for, please let us know. We can order most books currently in print and will search our various 
+resources for copies of used books.
+</description>
+<location>4065 Main Street, Chincoteague VA 23336</location>
+<phone>757-336-5825</phone>
+<email>info@sundialbooks.net</email>
+<website>http://www.sundialbooks.net/</website>
+<lat>37.934070</lat>
+<long>-75.377490</long>
+<gm_link>https://goo.gl/maps/MMi62qpudN82</gm_link>
+</listing>
+
+<listing>
+<name categories="List View">Historic Main Street Merchants Association</name>
+<image alt="Historic Main Street Merchants Association" width="220" height="265">shops/main-street-merchants-logo.jpg</image>
+<description>
+The Historic Main Street Merchants Association is a variety of local businesses that have come together to promote all the life and beauty that Main Street, 
+Chincoteague Island has to offer. As an organization we have created some local events to promote commerce and community along with being a network for business 
+communication and a channel to help local merchants work together in our beautiful island community. Our members are listed below. 
+</description>
+<location></location>
+<phone></phone>
+<email></email>
+<website>http://www.chincoteaguemerchants.com/</website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+
+</shops-listings>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<restaurants-listings>
+
+<!-- Empty listing 
+<listing>
+<name></name>
+<image alt="" width="320" height="">restaurants/</image>
+<description>
+</description>
+<location></location>
+<phone></phone>
+<email></email>
+<website></website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+-->
+
+<listing>
+<name categories="List View,Map View">AJ's on the Creek</name>
+<image alt="AJs on the creek" width="220" height="175">restaurants/ajs.jpg</image>
+<description>
+Since 1985, AJ’s lunch and dinner menus have been filled with artfully-prepared seafood appetizers and entreés, vegitarian delights, beef and poultry selections and even a “lighter fare” menu and wine list to suit every palette. A locals’ favorite and a vacation must do — a stay on the island is not completce without a visit to AJ’s on the creek.
+</description>
+<location>6585 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>757-336-5888</phone>
+<email></email>
+<website>http://www.ajsotc.com/</website>
+<lat>37.93007</lat>
+<long>-75.35907</long>
+<gm_link>https://goo.gl/maps/D9XoM77BKUp</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Bill's Seafood Restaurant</name>
+<image alt="Bills Seafood Restaurant" width="220" height="201">restaurants/bills.jpg</image>
+<description>
+Serving breakfast, lunch and dinner since 1960. The freshest local seafood, hand cut steaks, and chops. As well as pasta dishes. All accompanied by our international wine list. Beer and cocktails are served. Be sure to save room for our legendary desserts. Open all year, seven days a week, 6 a.m. to closing. All major credit cards are accepted. Carry out is available. Located in historical downtown next to the firehouse. Dinner Reservations Accepted.
+</description>
+<location>4040 Main Street, Chincoteague VA 23336</location>
+<phone>757-336-5831</phone>
+<email></email>
+<website>http://www.billsseafoodrestaurant.com/</website>
+<lat>37.93344</lat>
+<long>-75.37823</long>
+<gm_link>https://goo.gl/maps/DtvxqfHAyw42</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Don's Seafood Restaurant</name>
+<image alt="Dons Seafood Restaurant" width="220" height="192">restaurants/dons.jpg</image>
+<description>
+If you are looking for a friendly, casual restaurant that serves the freshest local seafood... this is it! Since 1973, Don's has delighted folks year round with their famous specialties: Crab Cakes, Flounder, Oysters and Clams on the Half Shell. Located in the heart of downtown Chincoteague, Don's sits dockside on Chincoteague Channel where you can enjoy great views of the bridge and fishing fleet as well as spectacular sunsets.
+</description>
+<location>4113 Main St, Chincoteague VA 23336</location>
+<phone>757-336-5715</phone>
+<email></email>
+<website>http://www.donsseafood.com/</website>
+<lat>37.93440</lat>
+<long>-75.37599</long>
+<gm_link>https://goo.gl/maps/YgSsmdwiv2x</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Etta's Channel Side Restaurant</name>
+<image alt="Ettas Channel Side Restaurant" width="220" height="152">restaurants/ettas.jpg</image>
+<description>
+Etta’s Channel Side Restaurant opened in 1987 when Etta MacDowell (original owner) finally realized her dream to own a restaurant on the Assateague Channel. Etta along with her daughter, Vickie Thornton, operated the Restaurant for nine years and established a reputation for fine food and excellent customer service. Since 1996 the restaurant has been owned and managed by Janet Gadow, assisted by Norma and Jerry Basham and a loyal staff. Many of Etta’s recipes, including her famous crab cakes and crab imperial, are served and continue to delight our guests. We hope that you will include our restaurant in your dining plans while visiting our Island. Come dine with us and experience one of the best views Chincoteague Island has to offer, overlooking the Assateague Channel and Lighthouse.
+</description>
+<location>7452 East Side Drive, Chincoteague VA 23336</location>
+<phone>757-336-5644</phone>
+<email></email>
+<website>http://www.ettaschannelside.com/</website>
+<lat>37.91743</lat>
+<long>-75.37696</long>
+<gm_link>https://goo.gl/maps/tP7TdYgTNxu</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Famous Pizza Family Restaurant</name>
+<image alt="Famous Pizza Family Restaurant" width="220" height="118">restaurants/famous-pizza.jpg</image>
+<description>
+"Our Family Feeding Your Family For Over 30 Years". Located on your way to the beach, just before the turn circle. Serving a full menu daily, featuring our specialty fresh home-made pizza and authentic Philadelphia style cheesesteaks! Our menu is sure to have something for everyone, including seafood, pastas, salads, gyros, and more. Pick up, dine in, or call for free delivery. Beer and wine available when you dine in.
+</description>
+<location>6689 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>757-336-3301 or 757-336-1316</phone>
+<email></email>
+<website>http://www.famouspizzaci.com/</website>
+<lat>37.92847</lat>
+<long>-75.35675</long>
+<gm_link>https://goo.gl/maps/8rE4dzfEbn52</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">The Ropewalk</name>
+<image alt="The Ropewalk" width="220" height="159">restaurants/ropewalk.jpg</image>
+<description>
+The Ropewalk features waterfront dining and a beach with a tiki bar, fire pits, and children's play area. The Ropewalk is Chincoteague Island's premier and newest 
+waterfront restaurant, offering a family-friendly atmosphere, first class indoor and outdoor dining and the best sunset views in town. Enjoy fresh and enticing entrees 
+on our varied menu, and relax at the bar with full wine, liquor, beer, and local craft brew selection. From the tropical beach to the beautiful Narrows Ballroom suitable 
+for weddings and various events, The Jackspot is a Chincoteague Island destination.
+</description>
+<location>6262 Marlin Street (off of Main Street), Chincoteague VA 23336</location>
+<phone>757-336-0512</phone>
+<email></email>
+<website>https://chincoteague.ropewalk.com/</website>
+<lat>37.933310</lat>
+<long>-75.379842</long>
+<gm_link>https://goo.gl/maps/2XxmuifSWR22</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Steamers - All You Can Eat</name>
+<image alt="Steamers - All You Can Eat" width="220" height="192">restaurants/steamers.jpg</image>
+<description>
+Steamers specializes in ALL-YOU-CAN EAT seafood. We also offer an amazing variety of seafood and non-seafood entrées including steaks (hand cut to order), pastas, salads and a kids menu! Our goal is to serve good food in ample portions with superior service in a relaxed setting!
+</description>
+<location>6251 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>757-336-5300</phone>
+<email></email>
+<website>http://www.steamersallyoucaneat.com/</website>
+<lat>37.93515</lat>
+<long>-75.36751</long>
+<gm_link>https://goo.gl/maps/Nd6vKvHrRk22</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">The Village Restaurant</name>
+<image alt="The Village Restaurant" width="220" height="220">restaurants/the-village.jpg</image>
+<description>
+At The Village Restaurant you will find the very best seafood Chincoteague Island has to offer. Our family has been in the seafood business for over 38 years. We take great pride in our reputation for serving only the freshest and finest local seafood in our restaurant. We also serve fine steaks and veal. The Village Restaurant is a favorite among locals and visitors alike. Please plan to visit The Village Restaurant on your next Chincoteague Island vacation. We will exceed your expectations! 
+</description>
+<location>6576 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>757-336-5120</phone>
+<email>-75.35818</email>
+<website>http://www.chincoteague.com/thevillage/</website>
+<lat>37.929674</lat>
+<long>-75.358687</long>
+<gm_link>https://goo.gl/maps/CFH6bjxqhFP2</gm_link>
+</listing>
+
+</restaurants-listings>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<waterfowl-hunting-listings>
+
+<!-- Empty listing 
+<listing>
+<name></name>
+<image alt="" width="320" height="">activities/</image>
+<description>
+</description>
+<location></location>
+<phone></phone>
+<email></email>
+<website></website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+-->
+
+<listing>
+<name categories="">Andy's Guide Service</name>
+<image alt="Andy's Guide Service" width="250" height="230">waterfowl-hunting/andy.jpg</image>
+<description>
+Andy Linton, a native of Virginia’s Eastern Shore, has been guiding hunting parties since 1965. Featured in Disappearing Delmarva - Portraits of the Peninsula People, The Washington Post, the television program “Virginia Outdoor Life”, and local newspapers. He is well respected and known as the Eastern Shore’s most experienced hunting guide. Licensed by the United States Coast Guard as a Master Captain, he provides a personal touch and is the sole guide for this business. His return clientele attests to his expertise and dependability.
+</description>
+<location></location>
+<phone>757-336-1253 or 757-990-2499</phone>
+<email></email>
+<website>http://www.chincoteague.com/alinton/</website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+
+<listing>
+<name categories="">Captain Wayne Lewis</name>
+<image alt="" width="250" height="159">waterfowl-hunting/wayne-lewis.jpg</image>
+<description>
+Let local Captain Wayne Lewis guide your Chincoteague Island Waterfowl hunt. Captain Wayne has a wealth of experience hunting this area. He has blind sites in 
+prime areas for hunting Puddle Ducks, Divers, Sea Ducks, Brant, and Geese. Have you ever hunted Atlantic Brant??? Captain Wayne will show you how. Hunt before 
+Sunrise to Sunset from Mid November to Mid January.
+</description>
+<location></location>
+<phone>757-336-6835</phone>
+<email>captlewis@verizon.net</email>
+<website>http://www.chincoteague.com/wonderfull/hunting.html</website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+
+<listing>
+<name categories="">Chincoteague Hunting &amp; Fishing Center</name>
+<image alt="Chincoteague Hunting and Fishing Center " width="250" height="188">waterfowl-hunting/pete-wallace.jpg</image>
+<description>
+Chincoteague Hunting &amp; Fishing Center has been rated as one of the top one hundred greatest waterfowl outfitters in North America. We have approximately 100 
+blinds from the Maryland-Virginia state line south for approximately thirty miles. Our blinds include marsh blinds, which overlook ponds and creeks and Pole 
+blinds, which are located in the open waters of the bays and sounds. We also have grass boats, floating and portable blinds. It is possible to hunt Puddle 
+ducks, Divers, Sea Ducks, Brant and Geese all in the same day. 
+</description>
+<location></location>
+<phone>1-888-231-4868 or 757-894-8148</phone>
+<email>huntfish@dmv.com</email>
+<website>http://www.chincoteague.com/hunting-center/</website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+
+<listing>
+<name>Marshland Charters</name>
+<image alt="Marshland Charters" width="250" height="">waterfowl-hunting/marshland-charters.jpg</image>
+<description>
+Virginia's Eastern Shore offers a diversified variety of waterfowl hunting for the beginner or veteran waterfowl hunter. Come hunt and enjoy the beautiful 
+marshes and bays around Chincoteague Island. Capt Matt Mason will be your personal guide for all the days of your hunt. He has over 40 years of waterfowl and 
+boating experience around the salt marshes and back bays of Chincoteague Island. Captain Matt has marsh blinds set up on ponds for puddle ducks, and open bay 
+blinds for divers and Brant. Captain Matt's blinds are big and spacious with partial covering on the top to help keep you concealed from the ducks and the 
+weather. We may also be hunting from floating blinds or even our 24 ft Carolina Skiff. 
+</description>
+<location>Slip #85 in Curtis Merritt Harbor</location>
+<phone>757-894-1627 or 757-894-1626</phone>
+<email></email>
+<website>https://www.chincoteague.com/marshland-charters/hunting.php</website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+
+</waterfowl-hunting-listings>
