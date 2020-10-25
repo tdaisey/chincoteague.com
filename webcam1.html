@@ -1,0 +1,47 @@
+<!-- Page Top -->
+<?php 
+	$page_title = "Daisey's Dockside";
+	$page_description = "Live view from Daisey's Dockside on South Main Street Chincoteague Island, Virginia";
+	$header_addendum = "";
+	$index_page = False;
+	include 'chinco-page/php/page-top.php';
+?>
+
+<!-- Main Section -->
+<div class="container text-center">
+	
+	<!-- Title -->
+	<h1><?php echo $page_title; ?></h1>	
+	<h1>Live Webcam</h1>
+		
+	<!-- Breadcrumbs -->
+	<ol class="breadcrumb">
+		<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+		<li class="breadcrumb-item"><a href="webcams.html">Live Webcams</a></li>
+		<li class="breadcrumb-item active">Daisey's Dockside Webcam</li>
+	</ol>
+	
+	<h2><a href="events.html" target="_blank">Chincoteague Island Events</a></h2>
+	
+	<h2><a href="pony_swim_guide.html" target="_blank">Official Pony Swim Guide</a></h2>
+	
+	<p style="text-align:center;">Live view from Daisey's Dockside / Chincoteague.com Headquarters / 3335 South Main Street</p>
+	
+	<p style="text-align:center;">The live image updates every 3 seconds</p>
+	
+	<script>
+	var refreshrate=1;                   //SECONDS BETWEEN REFRESH
+	var image="../webcam/camera0.jpg";      //IMAGE NAME
+	var imgwidth="100%";                 //IMAGE WIDTH
+	var imgheight="auto";                //IMAGE HEIGHT
+	function refresh(){
+	document.images["pic"].src=image+"?"+new Date();
+	setTimeout('refresh()', refreshrate*1000);}
+	document.write('<IMG SRC="'+image+'" NAME="pic" ID="pic" WIDTH="'+imgwidth+'" HEIGHT="'+imgheight+'";" class="responsive-image">');
+	if(document.images)window.onload=refresh;
+	</script>
+	
+</div>
+	
+<!-- Page Bottom -->
+<?php include 'chinco-page/php/page-bottom.php'; ?>

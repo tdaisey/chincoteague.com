@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<services-listings>
+
+<!-- Empty listing 
+<listing>
+<name categories=""></name>
+<image alt="" width="320" height="">vacation-rental-companies/</image>
+<description>
+</description>
+<location></location>
+<phone></phone>
+<email></email>
+<website></website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+-->
+
+<listing>
+<name categories="Trees Trash and Demolition">John Howard Services</name>
+<image alt="John Howard Services" width="229" height="153">services/john-howard-services.jpg</image>
+<description>
+John Howard Services provides professional tree cutting services, including tree trimming, tree removal, and stump removal. 
+We do home and business demolition. We can deliver a dumpster to your site so that you can fill it with your trash, then we will haul it 
+away. John Howard Services has been in business for over 20 years and has an impeccable reputation. For a job 
+<span style="font-style:italic;text-decoration:underline;">done right</span> in the Chincoteague Island area give us a call.
+</description>
+<location>Chincoteague VA</location>
+<phone>757-336-6777</phone>
+<email></email>
+<website>john-howard.html</website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+
+<listing>
+<name categories="Chiropractic,Map View">Island Chiropractic Center</name>
+<image alt="Island Chiropractic Center" width="220" height="220">services/Island-Chiropractic-Center.jpg</image>
+<description>
+Providing Chiropractic care on beautiful Chincoteague Island. We help patients get relief from back and neck pain, sciatica, 
+planter fasciitis, carpal tunnel, numbness and tingling, headaches, sports injuries, pain in shoulder, wrist, hip or elbow. 
+We also have a retail inventory of pain relief lotions, gels and supplements.
+</description>
+<location>6295 Teal Lane, Chincoteague VA 23336</location>
+<phone>757-336-7170</phone>
+<email>islandchiropracticcenter@gmail.com</email>
+<website>http://www.islandchiropractor.com</website>
+<lat>37.932190</lat>
+<long>-75.359869</long>
+<gm_link>https://goo.gl/maps/df2XBgEwQvp</gm_link>
+</listing>
+
+<listing>
+<name categories="Event Venues,Map View">Chincoteague Center</name>
+<image alt="Chincoteague Center" width="220" height="110">services/cc-logo.jpg</image>
+<description>
+Let world-famous Chincoteague Island be the backdrop for your next business or social event! This quaint seaside town retains the flavor of 
+yesteryear while providing all the amenities of today. Whether you’re planning a convention, trade-show, corporate event or conference, class, 
+festival, wedding or reunion – the Chincoteague Center provides the perfect venue and meeting place. Our modern, spacious facility can 
+accommodate up to 800 attendees in a 9,000 square foot area that includes sliding wall partitions for virtually unlimited space options. Call 
+or stop by for a tour of the building between 10:00 am and 3:00 pm Monday through Friday.
+</description>
+<location>6155 Community Drive, Chincoteague VA 23336</location>
+<phone>757-336-0614</phone>
+<email>center@thechincoteaguecenter.com</email>
+<website>https://www.thechincoteaguecenter.com/</website>
+<lat>37.935738</lat>
+<long>-75.359756</long>
+<gm_link>https://goo.gl/maps/udQAS9HFaj42</gm_link>
+</listing>
+
+<listing>
+<name categories="Construction">Island Homes</name>
+<image alt="Island Homes" width="216" height="163">services/island-homes-logo.jpg</image>
+<description>
+Island Homes has been established on Chincoteague Island for over 5 years. Owners Bill and Linda Melvin have lived on Chincoteague Island for many, many years
+ - Bill has lived on Chincoteague Island most of his life. When it comes to quality modular, manufactured and custom-built home sales - Island Homes is your 
+ first choice! Choose from many floor plans, styles and sizes from our two manufacturers - Commodore and Apex. Desire a traditional stick-built, custom home? 
+ Not a problem, we design and build traditional homes as well. 
+</description>
+<location>, Chincoteague VA 23336</location>
+<phone>757-894-3745 | 757-894-3746 </phone>
+<email>sales@islandhomesva.com</email>
+<website>http://islandhomesva.com</website>
+<lat>1234</lat>
+<long>1234</long>
+<gm_link></gm_link>
+</listing>
+
+<listing>
+<name categories="Home Inspections">Virginia Home Inspections</name>
+<image alt="Virginia Home Inspections" width="220" height="102">services/vhi-logo.jpg</image>
+<description>
+Virginia Home Inspections is a  locally owned inspection company with over 20 years of on the job experience in the home inspection field. Virginia 
+Home Inspections has no affiliations with any other companies. We will provide you with a thorough and honest report based on what is seen on the 
+day of the inspection. We are proud to serve every area of the Eastern Shore of Virginia - Chincoteague Island, Wallops Island, Atlantic, Parksley, 
+Onancock and Captain's Cove in Accomack County, as well as Cape Charles, Belle Haven, and Exmore in Northampton County, just to name a few. 
+</description>
+<location>Grace Street, Chincoteague VA 23336</location>
+<phone>757-336-3450 or 757-894-0378</phone>
+<email>info@va-homeinspections.com</email>
+<website>http://www.va-homeinspections.com/</website>
+<lat>1234</lat>
+<long>1234</long>
+<gm_link></gm_link>
+</listing>
+
+<listing>
+<name categories="Photography,Map View">Solid Rock Photography</name>
+<image alt="Solid Rock Photography" width="220" height="275">services/srp-logo.jpg</image>
+<description>
+We're a highly-qualified, professional photography studio. Experienced in various types of photography, we're known for our quality. We've been 
+serving the Chincoteague area for over 40 years. We take great pleasure in showcasing our style and philosophy on professional photography. We 
+understand that everyone has an independent expression of who they are. Our goal is to capture the unique quality and personality of every 
+individual we photograph.
+</description>
+<location>4395 Ridge Rd, Chincoteague VA 23336</location>
+<phone>757-336-3588</phone>
+<email>kennylewis@verizon.net</email>
+<website>http://www.solidrockphotography.com</website>
+<lat>37.927712</lat>
+<long>-75.368631</long>
+<gm_link>https://goo.gl/maps/u8kZ5nG3mn72</gm_link>
+</listing>
+
+<listing>
+<name categories="Power Washing">William Kambarn Power Washing</name>
+<image alt="William Kambarn Power Washing" width="220" height="147">services/wkpw-logo.jpg</image>
+<description>
+William Kambarn Power Washing has been serving Chincoteague and the surrounding communities since 1997. William specializes in Power Washing houses, 
+mobile homes, campers, decks, fences, drive ways, roofs, side walks, docks, boat bottoms and much more . William Kambarn Power Washing does residential 
+and commercial work for full time residents, rental properties, STORE FRONTS, motels and prep work for many local painters . We use modern top of the 
+line hot water equipment. We have on board water for those jobs where water is not available. WE POWER WASH EVERYTHING WITH HOT WATER TO LIFT AWAY DIRT, 
+MOLD, GREASE AND GRIME LIKE NO OTHER AND WITHOUT DAMAGE TO THE SURFACE BEING CLEANED. 
+</description>
+<location>Chincoteague VA 23336</location>
+<phone>757-336-6886</phone>
+<email></email>
+<website>http://www.chincoteague.com/wkpowerwashing/</website>
+<lat>1234</lat>
+<long>1234</long>
+<gm_link></gm_link>
+</listing>
+
+</services-listings>

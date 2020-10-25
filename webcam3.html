@@ -1,0 +1,41 @@
+<!-- Page Top -->
+<?php 
+	$page_title = "Robert Reed Waterfront Park";
+	$page_description = "Live view of the Robert Reed Waterfront Park in Chincoteague Island, Virginia";
+	$header_addendum = "<script src='//v.angelcam.com/js_sdk'></script>\n";
+	$index_page = False;
+	include 'chinco-page/php/page-top.php';
+?>
+
+<!-- Main Section -->
+<div class="container text-center">
+	
+	<!-- Title -->
+	<h1><?php echo $page_title; ?></h1>	
+	<h1>Live Webcam</h1>
+		
+	<!-- Breadcrumbs -->
+	<ol class="breadcrumb">
+		<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+		<li class="breadcrumb-item"><a href="webcams.html">Live Webcams</a></li>
+		<li class="breadcrumb-item active">Robert Reed Waterfront Park</li>
+	</ol>
+	
+	<h2><a href="events.html" target="_blank">Chincoteague Island Events</a></h2>
+	
+	<h2><a href="pony_swim_guide.html" target="_blank">Official Pony Swim Guide</a></h2>
+	
+	<br>
+	<h2>Live view from the<br><a href="http://www.chincoteague.com/chincoteagueislandlibrary/" target="_blank">Chincoteague Library</a></h2>
+	
+	<div id="player_waterfront-park"></div>
+	<script>
+	new Angelcam.player('player_waterfront-park', {
+		id: '40le8x77l5'
+	});
+	</script>
+	
+</div>
+	
+<!-- Page Bottom -->
+<?php include 'chinco-page/php/page-bottom.php'; ?>

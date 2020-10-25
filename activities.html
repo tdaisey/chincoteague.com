@@ -1,0 +1,389 @@
+<!-- Page Top -->
+<?php 
+	$page_title = "Chincoteague Island Activities";
+	$page_description = "Listings for Things To Do on Chincoteague Island, Virginia";
+	$index_page = False;
+	$listing_type = "activities";
+	$map_view = "yes";
+	$header_addendum = "";
+	include 'chinco-page/php/page-top.php'; 
+?>
+
+<!-- Main Section -->
+<div class="container text-center">
+
+	<!-- Title -->
+	<h1><?php echo $page_title; ?></h1>	
+	
+	<!-- Breadcrumbs -->
+	<ol class="breadcrumb">
+		<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+		<li class="breadcrumb-item active">Chincoteague Island Activities</li>
+	</ol>
+	
+	<p>
+	Visitors to Chincoteague often remark that they are surprised that there is never a 
+	shortage of things to do on our small Island, seven miles long and three miles wide. 
+	Chincoteague is uniquely situated to offer a wide array activities. Chincoteague Island 
+	lies right next door to Assateague Island, with the only publicly accessible beach 
+	between Ocean City, MD. and Virginia Beach, VA. Scroll down to view the wide array of 
+	activities available on Chincoteague Island.
+	</p>
+
+	<p>
+	<a href="https://www.chincoteague.com/blog/category/things-to-do/" target="_blank">Click here</a> to read 
+	about 'Things To Do' in our Chincoteague Travel Blog.
+	</p>
+	
+	<!-- Top of Page Banners -->
+	<div class="scalable-banners" style="padding-bottom:20px;">
+	<a href="http://www.daiseysislandcruises.com/" target="_blank">
+	<img src="chinco-page/images/banners/daiseys-cruises-banner6.jpg" alt="daiseys cruises banner ad">
+	</a>
+	<a href="http://www.stevesbaitandtackle.com/" target="_blank">
+	<img src="chinco-page/images/banners/captsteves-banner3.jpg" alt="captain steves bait and tackle banner ad">
+	</a>
+	<a target="_blank" href="http://www.assateagueexplorer.com/">
+	<img src="chinco-page/images/banners/assateagueexplorer_small_two.jpg" width="222" height="150" alt="Assateague Explorer banner">
+	</a>
+	<a href="http://www.gotofunland.com/" target="_blank">
+	<img src="chinco-page/images/banners/refugegolfbanner.png" alt="refuge golf banner ad">
+	</a>
+	<a href="http://www.chincoteague.com/fishtales/" target="_blank">
+	<img src="chinco-page/images/banners/fish-tales-banner2.jpg" alt="fish tales fishing banner ad">
+	</a>
+	<a target="_blank" href="https://www.mauijacks.com/">
+	<img src="chinco-page/images/banners/maui_jacks_banner.jpg" width="222" height="150" alt="Maui Jacks banner">
+	</a>
+	<a href="http://www.saltwaterponytours.com/" target="_blank">
+	<img src="chinco-page/images/banners/saltwater-pony-tours-banner.jpg" alt="saltwater pony tours banner ad">
+	</a>
+	</div>
+	
+	<!-- Tabs -->
+	<ul class="nav nav-tabs" style="margin-bottom:10px;">
+		<li class="active"><a data-toggle="tab" href="#list-view">List View</a></li>
+		<li><a data-toggle="tab" href="#map-view">Map View</a></li>
+	</ul>
+	
+	<!-- Tab Content -->
+	<div class="tab-content">
+	
+		<!-- List View Tab -->
+		<div id="list-view" class="tab-pane fade in active">
+		
+			<!-- Listings Begin -->
+			
+			<!-- Load Listings -->
+			<?php 
+				$listing_file = "chinco-page/listings/xml/" . $listing_type . ".xml";
+				$listings=simplexml_load_file($listing_file) or die("Error: Cannot create object");
+			?> 
+
+			<!-- Assateague Island -->
+			<h2>Assateague Island</h2>
+			<p>
+			<a href="assateague-island.html">Assateague Island</a> is the home of the Chincoteague National Wildlife Refuge.  Assateague Island offers a pristine public beach and incredible outdoor recreational opportunities.    
+			</p>
+			<p>
+			<a href="assateague-island.html">More information about things to do on Assateague Island</a>
+			</p>		
+			
+			<!-- Beach &amp; Vacation Equipment Rentals -->
+			<hr>
+			<h2>Beach &amp; Vacation Equipment Rentals</h2>
+			
+			<!-- Listings for "Equipment Rentals" -->
+			<?php showListings($listings,"Equipment Rentals","false"); ?>
+			
+			<!-- Biking and Hiking -->
+			<hr>
+			<h2>Biking and Hiking</h2>
+			<p>
+			Chincoteague offers a great place to take off with a bike or walk. Everything is close and has the perfect blend of small town and wilderness. 
+			Many of the roads on Chincoteague have sidewalks. The Chincoteague Bicycling Advisory Committee is taking great strides towards 
+			enhancing the recreational experience of  the bicycling public on Chincoteague Island. Hiking and Biking on <a href="assateagueisland.html#trails">Assateague Island</a> 
+			offers many views of nature that you would not see anywhere else. There are 15 miles of trails that wind through the marshes and forests and including a path to the 
+			Assateague Lighthouse.
+			</p>
+			<p>
+			Chincoteague offers a fantastic, paved nature trail on Hallie Whealton Smith Drive, which is located off of North Main Street, near Chincoteague High School. The 
+			<em>Island Nature Trail</em> is located along both sides of Hallie Whealton Smith Drive. The land where the trail is located represents some of last large tracts of 
+			undeveloped land on Chincoteague.  The trail is a place where you can see wildlife in its natural habitat and it provides a safe haven for people to walk, run, ride 
+			their bike, bird-watch, or just enjoy the natural side of Chincoteague. To the south is an accessible 0.7 mile long paved loop path complete with benches, and an 
+			interpretive sign display. Pets are allowed along this portion of the trail.  To the north is a natural surface trail that loops approximately 0.45 miles through 
+			pine forest and glade. No pets are allowed on this portion.
+			</p>
+			
+			<p style="text-align:center;"><a href="chinco-page/pdfs/Chinco-Biking-Brochure.pdf" target="_blank">Guide to Biking and Hiking Historic Areas of Chincoteague (.pdf download)</a></p>
+			<p style="text-align:center;"><a href="chinco-page/pdfs/AssateagueTrailMap.pdf" target="_blank">Assateague Island Trail Map (.pdf download)</a></p>
+			
+			<!-- Bike and Beach Gear Rental -->
+			<hr>
+			<h2>Bike Rentals</h2>
+			<!-- Listings for "Bike and Beach Gear Rental" -->
+			<?php showListings($listings,"Bike Rentals","none"); ?>
+			
+			<!-- Boating -->
+			<hr>
+			<h2>Boating</h2>
+			<p>
+			Boating is one of the more enjoyable pastimes on Chincoteague. If your interests are <a href="fishing.html">fishing</a>, water-skiing, or just wanting to 
+			enjoy the water on a peaceful summers evening, the options are here for you to use your own boat or rent one. With the purchase of a City 
+			Boat Sticker, anyone wishing to put in their own boat will have access to 3 Town supported public boat ramps. Boat ramp stickers can be 
+			purchased at the <a href="http://www.chincoteague-va.gov/visitors/recreation" target="_blank">Town Office</a>, Police Station, and from the Harbormaster.
+			<a href="scenic-cruises.html">Guided scenic/nature boat tours</a> are also available.
+			</p>
+			<p style="text-align:center;">Public Boat Ramps:</p>	
+			<p style="text-align:center;">Curtis Merrit Harbor (<a href="https://goo.gl/maps/yz4aFwB6gb82" target="_blank">Curtis Merritt Harbor Drive</a>)</p>
+			<p style="text-align:center;">East Side Ramp (<a href="https://goo.gl/maps/asUo2kPTAw82" target="_blank">East Side Road</a>)</p>
+			<p style="text-align:center;">Memorial Park (<a href="https://goo.gl/maps/QYYaNQoDcaR2" target="_blank">Memorial Park Drive</a>)</p>
+			<p style="text-align:center;">Town Dock (Main Street)</p>
+			<p style="text-align:center;">Fir Landing (Deep Hole Road)</p>
+					
+			<!-- Boat Rentals -->
+			<hr>
+			<h2>Boat Rentals</h2>
+			<p style="text-align:center;"><a href="boat-rentals.html">Click here for Chincoteague Island Boat Rentals</a></p>
+			
+			<!-- Boat Tours -->
+			<hr>
+			<h2>Boat Tours</h2>
+			<p>
+			A boat tour is a must do activity for your Chincoteague Island vacation! You will gain a perspective of the area that is not achievable any other way.
+			</p>
+			<p>
+			Most of the tour boat companies offer “Scenic Nature Cruises” that will allow you experience the abundant wildlife and unspoiled nature of Chincoteague 
+			and Assateague Islands. Wild Ponies, Dolphins, Bald Eagles, and Sunsets over the Bay are just a few of the highlights you'll have a chance to experience 
+			on a Scenic Nature Cruise.
+			</p>
+			<p>
+			A couple of the tour boat companies offer specialized tours, such as a Pirate Ship adventure and hands-on Marine Ecology tour. 
+			<a href="scenic-cruises.html">Click here</a> for a complete list of Chincoteague Island Tour Boat Companies.
+			</p>
+			<p style="text-align:center;"><a href="scenic-cruises.html">Chincoteague Island Tour Boat Companies</a></p>
+			<p style="text-align:center;"><a href="http://www.chincoteague.com/charterboats/" target="_blank">Chincoteague Island Charterboat Association</a></p>
+			
+			<!-- Crabbing -->
+			<hr>
+			<h2>Crabbing</h2>
+			<p>
+			Crabbing on Assateague and Chincoteague  Islands is one of the favorite pastimes for both the local residents and visitors alike. 
+			The preferred method for crabbing is with a net and baited line. All of the needed materials can be purchased at any local fishing shop, 
+			or hardware store. Most people like to use old pieces of raw chicken, tied to a line with a weight, sitting at the bottom of the water. 
+			The crabs will try to catch the bait and are lured into your waiting crab net. Cook the crabs by steaming them in a large crab pot with a 
+			generous amount of Old Bay Seasoning, and you can enjoy one of the Eastern Shores most famous delicacy.  The size restrictions and limits 
+			in Virginia are enforced as a conservation measure. Crabs must measure 5" from back shell point-to-point.
+			</p>
+			
+			<!-- Clamming -->
+			<hr>
+			<h2>Clamming</h2>
+			<p>
+			Clamming is another water pastime that is also plentiful on the Eastern Shore. The favored method is raking while 
+			wadding in generally shallow water. The best times being during the low tides. Another way is walking in the sand 
+			at low tide and 'signing' them. That means looking for the little keyhole indentations in the sand. By digging just 
+			under the surface of the sand, you will find the clams.  Some of the <a href="scenic-cruises.html">Scenic Tour Boats </a>
+			offer clamming excursions.
+			</p>
+			<p style="text-align:center;"><a href="http://www.saltwatertides.com/dynamic.dir/virginiasites.html" target="_blank">Tide Information</a></p>
+			
+			<!-- Day Cruise to Tangier Island -->
+			<hr>
+			<h2>Day Cruise to Tangier Island</h2>
+			<!-- Listings for Day Cruise to Tangier Island -->
+			<?php showListings($listings,"Day Cruise to Tangier Island","none"); ?>
+			
+			<!-- Dog Park -->
+			<hr>
+			<h2>Dog Park</h2>
+			<p style="text-align:left;">
+			Attention all dog lovers who can’t bear to leave their best friends behind on vacation. 
+			The Town of Chincoteague Island has a fabulous dog park! 
+			</p>
+			<p style="text-align:center;">
+			<a href="https://www.chincoteague.com/blog/woof-town-of-chincoteague-island-dog-park/" target="_blank">
+			More information about the Chincoteague Dog Park</a>
+			</p>
+			
+			<hr>
+			<!-- Event Venues -->
+			<h2>Event Venues</h2>
+			<!-- Listings for Event Venues -->
+			<?php showListings($listings,"Event Venues","none"); ?>
+			
+			<!-- Farmers and Artisans Markets -->
+			<hr>
+			<h2>Farmers and Artisans Markets</h2>
+			<p style="text-align:center;"><a href="https://www.chincoteagueca.org/markets.html" target="_blank">Chincoteague Island Farmers and Artisans Market</a></p>
+			<p style="text-align:center;"><a href="https://www.chincoteagueca.org/markets.html" target="_blank">Second Saturday Artful Flea</a></p>
+			
+			<!-- Festivals -->
+			<hr>
+			<h2>Festivals</h2>
+			<p style="text-align:center;">Chincoteague Seafood Festival</p>
+			<p style="text-align:center;">Easter Decoy and Art Festival</p>
+			<p style="text-align:center;"><a href="http://www.chincoteagueblueberryfestival.com/" target="_blank">Chincoteague Island Blueberry Festival</a></p>
+			<p style="text-align:center;">Chincoteague Oyster Festival</p>
+			
+			<!-- Fishing -->
+			<hr>	
+			<h2>Fishing</h2>
+			<p>
+			Some of the best fishing grounds on the Mid-Atlantic Coast are found in the local waters surrounding Chincoteague Island. There are several different ways you can go fishing while 
+			vacationing in Chincoteague, including fishing from the surf on <a href="assateagueisland.html">Assateague Island</a>, from a public pier on Chincoteague, launching your own boat at a 
+			public boat ramp, <a href="boat-rentals.html">renting a boat</a>, or on a <a href="charterboats.html">Charterboat</a>. You can purchase fishing supplies from a local 
+			<a href="bait-and-tackle-shops.html">Bait and Tackle Shop</a>. On a <a href="charterboats.html">Charterboat</a> all your needed fishing supplies are typically included.
+			</p>			
+			<p style="text-align:center;">Click on the following links for more information:</p>			
+			<p style="text-align:center;"><a href="fishing.html">Chincoteague Island Fishing</a></p>
+			<p style="text-align:center;"><a href="charterboats.html">Chincoteague Island Charterboats</a></p>
+			<p style="text-align:center;"><a href="bait-and-tackle-shops.html">Chincoteague Island Bait and Tackle Shops</a></p>
+			<p style="text-align:center;"><a href="boat-rentals.html">Chincoteague Island Boat Rentals</a></p>
+			
+			<!-- Fitness -->
+			<hr>
+			<h2>Fitness</h2>
+			<p style="text-align:center;"><a href="http://www.ymcachesapeake.org/locations/chincoteague-island-family-ymca" target="_blank">Chincoteague Island Family YMCA</a></p>
+
+			<!-- History Tours -->
+			<hr>
+			<h2>History Tours</h2>
+			<!-- Listings for History Tours -->
+			<?php showListings($listings,"History Tours","none"); ?>			
+			
+			<!-- Horse Riding Lessons and Trail Rides -->
+			<hr>
+			<h2>Horse Riding Lessons and Trail Rides</h2>
+			<!-- Listings for Horse Riding Lessons and Trail Rides -->
+			<?php showListings($listings,"Horse Riding Lessons and Trail Rides","none"); ?>
+
+			<!-- Kayak Rentals -->
+			<hr>
+			<h2>Kayak Rentals</h2>
+			<!-- Listings for Kayak Rentals -->
+			<?php showListings($listings,"Kayak Rentals","none"); ?>
+
+			<!-- Kayak Tours -->
+			<hr>
+			<h2>Kayak Tours</h2>
+			<!-- Listings for Kayak Tours -->
+			<?php showListings($listings,"Kayak Tours","none"); ?>
+
+			<!-- Mini-Golf and Amusements -->
+			<hr>
+			<h2>Mini-Golf and Amusements</h2>
+			<!-- Listings for Mini-Golf and Amusements -->
+			<?php showListings($listings,"Mini-Golf and Amusements","none"); ?>
+
+			<!-- Movies -->
+			<hr>
+			<h2>Movies</h2>
+			<p style="text-align:center;"><a href="http://www.islandtheatres.com/" target="_blank">The Island Theater</a></p>
+			
+			<!-- Museums and Visitor Centers -->
+			<hr>
+			<h2>Museums and Visitor Centers</h2>
+			<!-- Listings for Museums and Visitor Centers -->
+			<?php showListings($listings,"Museums and Visitor Centers","none"); ?>
+			<hr>
+			<p style="text-align:center;"><a href="http://chincoteaguemuseum.com/" target="_blank">Museum of Chincoteague Island</a></p>
+			<p style="text-align:center;"><a href="https://www.nasa.gov/centers/wallops/visitorcenter" target="_blank">NASA Wallops Visitor Center</a></p>
+			<p style="text-align:center;"><a href="assateagueisland.html#bateman-center-visitor-center">Herbert H. Bateman Visitor Center</a></p>
+			<p style="text-align:center;"><a href="assateagueisland.html#toms-cove-visitor-center">Tom's Cove Visitor Center</a></p>
+			
+			<!-- Outdoor Waterpark -->
+			<hr>
+			<h2>Outdoor Waterpark</h2>
+			<!-- Listings for Outdoor Waterpark -->
+			<?php showListings($listings,"Outdoor Waterpark","none"); ?>
+			
+			<!-- Outdoor Parks -->
+			<hr>
+			<h2>Outdoor Parks</h2>
+			<p>
+			Chincoteague Island offers several beautiful parks for the enjoyment and recreation of residents and visitors. We highly reccomend taking advantage of these well maintained spaces 
+			while your on vacation. 
+			</p> 
+			<p style="text-align:center;">Robert N. Reed Downtown Waterfront Park</p>
+			<p>
+			Robert N. Reed Downtown Waterfront Park is located on Main Street in the heart of downtown. The park offers recreational opportunities and many festivals and events are held here.  There are 
+			currently 10 boat slips available for rent to transient boats that are in excess of 26’to 50’ in length.  The park is ADA accessible, inclusive of boat slips.  For  
+			information about renting a boat slip call the Town Office at 757-336-6519. Be sure to 
+			bring your fishing pole and cast your line off the new fishing pier (no license required). <a href="https://goo.gl/maps/rQk86C4Y9FB2" target="_blank">Find on Google Maps</a>
+			</p>
+			<p style="text-align:center;">Veteran's Memorial Park</p>
+			<p>
+			The Veteran's Memorial Park is located on Eastside Road. The park has tennis courts, basketball courts, playground equipment, fishing/crabbing pier, 
+			ball field, boat ramp, skate park, pavilion and restrooms. The pavilion may be reserved for groups through a permit issued by the Town for approval. It is 
+			recommended that you contact the Town Office, at 757-336-6519, to check availability. There is no fee for reserving the pavilion. The Commonwealth of Virginia enforces a 
+			recreational fishing license for the water surrounding Chincoteague. The Town of Chincoteague purchases a fishing license for the Veteran's Memorial Park fishing pier, 
+			so an individual license is not required.  <a href="https://goo.gl/maps/wgcWjep5DfN2" target="_blank">Find on Google Maps</a>
+			</p>
+			<p style="text-align:center;">Donald J. Leonard Park</p>
+			<p>
+			The Donald J. Leonard Park is located across from the Chincoteague Combined School on North Main Street and 
+			protects an open view of Chincoteague Bay with approximately 600 feet of water frontage. Over 2.7 acres of waterfront land has been left in its natural state for 
+			the enjoyment of the citizens and visitors alike.  Park facilities allow for off street parking up to 10 cars, picnic tables, and kayak access to the Virginia 
+			Seaside Water Trail. <a href="https://goo.gl/maps/RqdEhcmUZd42" target="_blank">Find on Google Maps</a>
+			</p>
+			
+			<!-- Public Library -->
+			<hr>	
+			<h2>Public Library</h2>
+			<!-- Listings for Public Library -->
+			<?php showListings($listings,"Public Library","none"); ?>
+			
+			<!-- Rocket Launches -->
+			<hr>	
+			<h2>Rocket Launches</h2>
+			<p>
+			NASA has been launching small rockets from Wallops Island (the Barrier Island to south of Chincoteague) since 1945.  In recent years, however, Wallops has become 
+			better known for the large scale rocket launch taking place from the facility.  Rockets like Northrup Grumman’s Antares, which routinely launches from Wallops Island, 
+			carrying supplies to the International Space Station (ISS).
+			</p>
+			<p style="text-align:center;"><a href="https://www.nasa.gov/centers/wallops/home" target="_blank">Upcoming Rocket Launches</a></p>
+			<p style="text-align:center;"><a href="https://www.chincoteague.com/blog/viewing-rocket-launches/" target="_blank">Viewing Rocket Launches</a></p>
+					
+			<!-- Shopping -->
+			<hr>
+			<h2>Shopping</h2>
+			<p style="text-align:center;"><a href="shops.html">Local Shops</a></p>
+	
+			<!-- Surfing -->	
+			<hr>
+			<h2>Surfing</h2>
+			<p style="text-align:center;"><a href="surfing.html">Surfing on Assateague Island</a></p>
+		
+			<!-- Transportation -->
+			<hr>	
+			<h2>Transportation</h2>
+			<p style="text-align:center;"><a href="pony-express.html">The Pony Express</a></p>
+
+			<!-- Waterfowl Hunting -->
+			<hr>
+			<h2>Waterfowl Hunting</h2>
+			<p style="text-align:center;"><a href="waterfowl-hunting.html">Local Waterfowl Hunting Guides</a></p>
+
+			<!-- Listings End -->
+			
+		</div>
+		<!-- End List View Tab -->
+		
+		<!-- Map View Tab -->
+		<div id="map-view" class="tab-pane fade">
+		
+			<!-- A div to hold the map -->
+			<div id="googleMap"></div>
+			
+		</div>
+		<!-- End Map View Tab -->
+	
+	</div>
+	<!-- End Tab Content -->
+	
+</div>
+<!-- End Main Section -->
+
+<!-- Page Bottom -->
+<?php include 'chinco-page/php/page-bottom.php'; ?>

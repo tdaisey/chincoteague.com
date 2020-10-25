@@ -1,0 +1,403 @@
+<!-- Page Top -->
+<?php 
+	$page_title = "Official 2020 Chincoteague Island Pony Swim Guide";
+	$page_description = "A complete guide to the weeklong festivities during Chincoteague Island's World Famous Pony Swim!";
+	$header_addendum = "<script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCoOAGy-jQCQ1tbnRv8A1qJdAnsKxibrbA'></script>
+<script>
+	window.onload=function()
+	{
+		function initBeachWalkMap() 
+		{
+			var pointA = new google.maps.LatLng(37.940086, -75.315257);
+			var pointB = new google.maps.LatLng(37.895766, -75.358594);
+			var mapCenter = new google.maps.LatLng(37.921191, -75.334946);
+			
+			var myOptions = {
+					zoom: 12,
+					center: mapCenter,
+					mapTypeId: 'hybrid'
+				};
+				
+			var map1 = new google.maps.Map(document.getElementById('beach-walk-map-canvas'), myOptions);
+			
+			//var directionsService1 = new google.maps.DirectionsService;
+			
+			//var directionsDisplay1 = new google.maps.DirectionsRenderer({
+					//map: map1
+				//});
+				
+			var markerA = new google.maps.Marker({
+					position: pointA,
+					title: 'point A',
+					label: 'A',
+					map: map1
+				});
+						
+			var markerB = new google.maps.Marker({
+					position: pointB,
+					title: 'point B',
+					label: 'B',
+					map: map1
+				});
+
+			var wayA = new google.maps.LatLng(37.939647, -75.315070);
+			var wayB = new google.maps.LatLng(37.939647, -75.315070);
+			var wayC = new google.maps.LatLng(37.889578, -75.342800);
+		
+			// get route from A to B
+			//calculateAndDisplayRoute(directionsService1, directionsDisplay1, pointA, pointB, wayA, wayB, wayC);
+		}
+		
+		function initPonySwimMap() 
+		{
+			var pointA = new google.maps.LatLng(37.913263, -75.381747);
+			var pointB = new google.maps.LatLng(37.914598, -75.384085);
+			var pointC = new google.maps.LatLng(37.915512, -75.386511);
+			var pointD = new google.maps.LatLng(37.926237, -75.384122);
+			
+			var myOptions = {
+					zoom: 7,
+					center: pointA,
+					mapTypeId: 'hybrid'
+				};
+			var map2 = new google.maps.Map(document.getElementById('pony-swim-map-canvas'), myOptions);
+			
+			var directionsService = new google.maps.DirectionsService;
+			
+			var directionsDisplay = new google.maps.DirectionsRenderer({
+					map: map2
+			});
+				
+			var markerA = new google.maps.Marker({
+					position: pointA,
+					title: 'point A',
+					label: '1',
+					map: map2
+				});
+				
+			var markerB = new google.maps.Marker({
+					position: pointB,
+					title: 'point B',
+					label: '2',
+					map: map2
+				});
+				
+			var markerC = new google.maps.Marker({
+					position: pointC,
+					title: 'point C',
+					label: '',
+					map: map2
+				});
+				
+			var markerD = new google.maps.Marker({
+					position: pointD,
+					title: 'point D',
+					label: '',
+					map: map2
+				});
+				
+			var wayA = new google.maps.LatLng(37.912972, -75.390248);
+			var wayB = new google.maps.LatLng(37.916085, -75.394203);
+			var wayC = new google.maps.LatLng(37.927445, -75.385781);
+		
+			// get route from A to B
+			calculateAndDisplayRoute(directionsService, directionsDisplay, pointC, pointD, wayA, wayB, wayC);
+		}
+
+		function calculateAndDisplayRoute(directionsService, directionsDisplay, startPoint, endPoint, wayA, wayB, wayC) 
+		{
+			directionsService.route({
+				origin: startPoint,
+				destination: endPoint,
+				waypoints: [{location: wayA, stopover: false},{location: wayB, stopover: false},{location: wayC, stopover: false}],
+				optimizeWaypoints: false,
+				avoidTolls: true,
+				avoidHighways: false,
+				travelMode: google.maps.TravelMode.DRIVING
+			}, function (response, status) {
+				if (status == google.maps.DirectionsStatus.OK) {
+					directionsDisplay.setDirections(response);
+				} else {
+					window.alert('Directions request failed due to ' + status);
+				}
+			});
+		}
+		
+		initBeachWalkMap();
+		initPonySwimMap();
+	}
+</script>";
+	$index_page = False;
+	include 'chinco-page/php/page-top.php';
+?>
+
+<!-- Main Section -->
+<div class="container text-center">
+
+	<!-- Title -->
+	<h1><?php echo $page_title; ?></h1>	
+	<p style="text-align:center;font-style:italic;">A complete guide to the week long festivities during Chincoteague Island's World Famous Pony Swim!</p>
+	
+	<!-- Breadcrumbs -->
+	<ol class="breadcrumb">
+		<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+		<li class="breadcrumb-item active">Pony Swim Guide</li>
+	</ol>
+	
+	<h1 style="color:red;text-decoration:underline;">
+	Sadly, due to covid-19, the Chincoteague Fire Department made the difficult decision to cancel the 2020 Pony Swim and related events
+	</h1>
+	
+	<p>
+	<b>Wednesday July 29, 2020</b> will mark the 95th year of Chincoteague's annual Pony Swim.
+	</p>
+	<p>
+	The Chincoteague Pony Swim was made famous by Marguerite Henry's <em>"<a href="articles/misty-of-chincoteague.html">Misty of Chincoteague</a>"</em>. 
+	Tens of thousands of spectators from around the world gather on Chincoteague Island each year to watch this annual tradition.  Scroll down for a complete guide to the 
+	Chincoteague Pony Swim.  For more information about the Chincoteague Ponies, including their history and the origins of the modern day Pony Swim, check out our 
+	<a href="ponies.html">Chincoteague Pony</a> web page.
+	</p>
+	<p>
+	The Chincoteague Fireman's Carnival (with rides, games, raffles, and lots of good food) will be open each night (Mon - Sat) during pony penning week beginning at 7pm. <em>Misty of Chincoteague</em> will be showing, at 11:00 am daily, at the Island Theater 
+	during pony penning week (Mon - Fri). Admission is free and is first come, first served.
+	</p>
+	
+	<img src="chinco-page/images/pony_swim.jpg" style="width:100%;padding-bottom:15px;" alt="Chincoteague Pony Swim">
+	
+	<!-- Saturday, Southern Herd Roundup -->
+	<hr>
+	<h2>Saturday, July 25, 2020</h2>
+	<p>
+	<b>Southern Herd Roundup</b>
+	<p>
+	<p>
+	The weekend prior to Wednesday's Pony Swim, "Saltwater Cowboys" on horseback will begin to round up the approximately 150 adult wild ponies that live on Assateague Island, 
+	along with the 60 to 70 foals that were born in the spring.  
+	<p>
+	<p>
+	About 50 adult ponies and their foals live on the southern end of Assateague Island. The Saltwater Cowboys will begin rounding them up into the Southern Corral Saturday afternoon beginning at about 4:30 pm.  
+	The Southern Corral is located on Assateague, just off the road that leads to the beach, and is accessible to the public.  The public can view the Ponies in the Southern Corral 
+	all day Sunday, Monday, and Tuesday.
+	</p>
+	<p>
+	<b>Other activities on Chincoteague Island Saturday:</b>
+	</p>
+	<p>Check our <a href="http://www.chincoteague.com/events.html" target="_blank">Upcoming Events</a> page for details.</p>
+	<ul style="text-align:left;">
+	<li>Chincoteague Island Blueberry Festival (9am - 4:30pm at the Chincoteague Center, 6155 Community Drive)</li>
+	<li>Chincoteague Fireman's Carnival  (7pm - 11pm at the Carnival Grounds)</li>
+	</ul>
+	<img src="chinco-page/images/pony_roundup_2.jpg" style="width:100%;" alt="Chincoteague Pony Roundup South Herd">
+
+	<!-- Sunday, Northern Herd Roundup -->
+	<hr>
+	<h2>Sunday, July 26, 2020</h2>
+	<p>
+	<b>Northern Herd Roundup</b>
+	</p>
+	<p>
+	About 100 adult ponies and their foals reside a little further north on the Assateague Island, and will be herded into the Northen Corral, Sunday morning beginning at about 7:30 am.  
+	The Northern Corral is not accessible to the public during the roundup. However, special bus tours are offered to go the Northern Corral after the roundup. Passengers will be able to 
+	get off the bus to view and photograph the Ponies in the Corral. Space is limited and tickets sell out quickly. Call 757-336-3696 for more information about the bus tours or to 
+	make a reservation.
+	</p>
+	<p>
+	<b>Other activities on Chincoteague Island Sunday:</b>
+	</p>
+	<p>Check our <a href="http://www.chincoteague.com/events.html" target="_blank">Upcoming Events</a> page for details.</p>
+	<ul style="text-align:left;">
+	<li>Chincoteague Island Blueberry Festival (9:00 AM - 4:30 PM at the Chincoteague Center, 6155 Community Drive)</li>
+	</ul>
+	<img src="chinco-page/images/pony_roundup.jpg" style="width:100%;" alt="Chincoteague Pony Roundup North Herd">
+
+	<!-- Monday, The Beach Walk -->
+	<hr>
+	<h2>Monday, July 27, 2020</h2>
+	<p>
+	<b>The Beach Walk</b>
+	</p>
+	<p>
+	On Monday, at day break, the Saltwater Cowboys will move the ponies from the Northern Corral out to the beachfront then south along the Atlantic Ocean, and join them with the ponies in the 
+	Southern Corral.  
+	</p>
+	<p>
+	The Chincoteague National Wildlife Refuge will open at 5:00am on this day. To view the Ponies walk down the beach we recommend driving to the beachfront and parking in the recreational beach 
+	parking area. Bring snacks, water, bug spray and cameras to enjoy this special event. 
+	</p>
+	<p>
+	Bicyclists and hikers can use Swan Cove Trail to access the beach. 
+	</p>
+	<p>Map Legend:</p>
+	<ul style="text-align:left;">
+	<li>A - Northern Corral</li>
+	<li>B - Southern Corral</li>
+	</ul>
+	<div class="map-container">
+	<div class="map-canvas" id="beach-walk-map-canvas"></div>
+	</div>
+	<img src="chinco-page/images/pony_beach_walk.jpg" style="width:100%;padding-bottom:15px;" alt="Chincoteague Pony Beach Walk">
+	<p>
+	<b>Other activities on Chincoteague Island Monday:</b>
+	</p>
+	<p>Check our <a href="http://www.chincoteague.com/events.html" target="_blank">Upcoming Events</a> page for details.</p>
+	<ul style="text-align:left;">
+	<li>Chincoteague Fireman's Carnival  (7pm - 11pm at the Carnival Grounds)</li>
+	</ul>
+
+	<!-- Tuesday, Pony Vet Checks -->
+	<hr>
+	<h2>Tuesday, July 28, 2020</h2>
+	<p>
+	<b>Pony Vet Checks</b>
+	</p>
+	<p>
+	All of the Ponies will be checked by a vet and can be viewed by the public in the Southern Corral on Assateague. Park in the Woodland Trail Parking Lot to access the Southern Corral.
+	</p> 
+	<div class="map-container">
+	<iframe class="map-canvas" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5763.2644187524675!2d-75.36311006226137!3d37.894001640542164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b967e133ba28d3%3A0x33f85ac4703ad98c!2sWoodland+Trail+Parking+Lot%2C+Woodland+Trail%2C+Chincoteague+Island%2C+VA+23336!5e1!3m2!1sen!2sus!4v1484271003596" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+	</div>
+	<p>
+	<b>Other activities on Chincoteague Island Tuesday:</b>
+	</p>
+	<p>Check our <a href="http://www.chincoteague.com/events.html" target="_blank">Upcoming Events</a> page for details.</p>
+	<ul style="text-align:left;">
+	<li>'Misty of Chincoteague' playing at the Island Theater (Check the Theater for show times)</li>
+	<li>Chincoteague Fireman's Carnival  (7pm - 11pm at the Carnival Grounds)</li>
+	</ul>
+
+	<!-- Wednesday, Pony Swim -->
+	<hr>
+	<h2>Wednesday, July 29, 2020</h2>
+	<p>
+	<b>Pony Swim</b>
+	</p>
+	<p>
+	On Wednesday, the Saltwater Cowboys will swim the ponies from Assateague Island to Chincoteague Island. The Ponies will 
+	swim across the Assateague Channel and come ashore on the east side of Chincoteague Island.
+	</p>
+	<img src="chinco-page/images/pony_swim_2.jpg" style="width:100%;padding-bottom:15px;" alt="Chincoteague Ponies Swim the Assateague Channel">
+	<p>
+	The main public viewing area is Veterans Memorial Park 
+	(<a href="http://goo.gl/maps/Elua3" target="_blank">7427 Memorial Park Dr,  Chincoteague Island, VA  23336</a>). A large screen will 
+	be located in Veterans Memorial Park with a live feed of the swim.  You will be able to see the swim on the screen. No seating is provided.
+	</p>
+	<p>
+	The Town of Chincoteague provides a free <a href="pony_swim_shuttle.html" target="_blank">Pony Swim Shuttle</a> service, beginning at 4:00 am. The 
+	Pony Shuttle runs between various locations on Chincoteague Island and Veterans Memorial Park. This is the best way to get to and from 
+	the Pony Swim.
+	</p>  
+	<p>
+	For details about riding the Pony Shuttle, including a printable map of shuttle stops, please <a href="pony_swim_shuttle.html" target="_blank">click here</a>. We recommend 
+	getting started early on this day and to anticipate a heavy crowd.
+	</p>
+	<p>
+	All visitors coming in just for the day are encouraged to go to Chincoteague Municipal Center 
+	(<a href="https://goo.gl/maps/HV1kiiX3ntE2" target="_blank">6155 Community Dr, Chincoteague Island, VA 23336</a>) and catch the free Pony Shuttle. 
+	Special needs parking is available at the Chincoteague Municipal Center ONLY.
+	</p>
+	<p>
+	Note that Veterans Memorial Park is not where the Ponies come ashore. The Ponies come ashore at <a href="https://goo.gl/maps/S8LbjRoCk2r" 
+	target="_blank">Pony Swim Lane</a>, just south of Veterans Memorial Park. If you wish to watch the Ponies come ashore at Pony Swim Lane, 
+	please be aware that you will be standing in marshland and space is very limited. No seating is provided.
+	</p>
+	<p>
+	The swim takes place at "slack tide". Slack tide is a period of about 30 minutes between tides, when there is no current.  This is the 
+	easiest time for the ponies to make the swim.  The time of slack tide varies each year.  However, the swim generally takes place some time 
+	between 7am and 1pm.  The specific time will be announced at the carnival grounds the week of the swim. 
+	</p>
+	<p>
+	The best way to see the pony swim up close is on a <a href="scenic-cruises.html" target="_blank">Charter Boat</a>.  
+	However, spots on these boats for the pony swim are in very high demand, so be sure to reserve your spot at least several months in advance.  
+	</p>
+	<p>
+	The first foal to come ashore will be named King or Queen Neptune and will be given away in a raffle drawing at the carnival grounds later in the day (time to be announced).  Tickets are 
+	sold each night at the carnival and amongst the crowd while waiting for the swim to occur.  You must have a ticket and you must be present to win. 
+	</p>
+	<p>
+	<b>Pony Parade To Carnival Grounds</b>
+	</p>
+	<p>
+	After the swim, the ponies rest for about 45 minutes. Then the Saltwater Cowboys will "parade" the ponies down Main Street, to the carnival grounds where the auction will be held Thursday 
+	morning.  The parade route is shown in blue on the map below.  
+	</p>
+	<p>Map Legend:</p>
+	<ul style="text-align:left;">
+	<li>1 - The Ponies enter the water on Assateague Island</li>
+	<li>2 - The Ponies come out of the water on Chincoteague Island</li>
+	<li>A - The start of the Pony Parade route</li>
+	<li>B - The end of the Pony Parade route</li>
+	</ul>
+	<div class="map-container">
+	<div class="map-canvas" id="pony-swim-map-canvas"></div>
+	</div>
+	<img src="chinco-page/images/pony_parade.jpg" style="width:100%;padding-bottom:15px;" alt="Chincoteague Pony Parade">
+	<p>
+	<b>Other activities on Chincoteague Island Wednesday:</b>
+	</p>
+	<p>Check our <a href="http://www.chincoteague.com/events.html" target="_blank">Upcoming Events</a> page for details.</p>
+	<ul style="text-align:left;">
+	<li>Chincoteague Fireman's Carnival  (7pm - 11pm at the Carnival Grounds)</li>
+	<li>'Misty of Chincoteague' playing at the Island Theater (Check the Theater for show times)</li>
+	</ul>
+
+	<!-- Thursday, Pony Auction -->
+	<hr>
+	<h2>Thursday, July 30, 2020</h2>
+	<p>
+	<b>Pony Auction</b>
+	</p>
+	<p>
+	The purpose of the pony swim on Wednesday is to move the ponies from Assateague Island to Chincoteague Island so that the  foals can be auctioned.  The auction takes place the following 
+	day.  The auction serves two purposes.  First, the auction helps to control the overall size of the herd, keeping it from growing too large.  Secondly, the auction is a fundraiser for the 
+	Chincoteague Volunteer Fire Company. The Fire Company uses some of the proceeds from the auction to provide veterinary care for the ponies through out the year.  
+	Auction winners will receive a certificate saying that they purchased a Chincoteague Pony from the Chincoteague Volunteer Fire Company.
+	</p>
+	<p>The auction begins at 8 am. The auction is typically very crowded. We suggest you get there early to get a seat.</p>
+	<img src="chinco-page/images/pony_auction.jpg" style="width:100%;padding-bottom:15px;" alt="Chincoteague Pony Auction">
+	<p>
+	Each year the Fire Company designates a select few ponies as "Buy Backs".  A Buy Back Pony is a foal that is designated by the Fire Company to 
+	return to Assateague Island to live out its life there.  The Buy Back Pony will be auctioned with the rest of the foals.  The winner of a Buy Back Pony will get to 
+	name the Pony before it is returned to Assateague.  Buy Back Ponies replenish the herd on Assateague.  Buy Back Ponies have actually become some of the highest priced 
+	ponies sold at the auction. 
+	</p>
+	<p>
+	Proceeds from the sale of one foal annually goes to a regional charity. Past recipients have included Wounded Warriors, Hospice, Palliative Care of the Eastern Shore, and Alzheimer's Adult Care.
+	</p>
+	<p>
+	Each year the Feather Fund helps deserving children purchase ponies at the auction. The Feather Fund is a charity that was created to honor the memory of Carollynn Suplee, a woman who came to 
+	Chincoteague annually to help children buy ponies at the auction until she passed away from cancer in 2003. To learn more visit <a href="http://www.featherfund.org" target="_blank">www.featherfund.org</a>.
+	</p>
+	<p>
+	For more information about the auction, including tips for bidding and auction price history, please <a href="pony_auction.html" target="_blank">click here</a>.
+	</p>
+	<p>
+	<b>Other activities on Chincoteague Island Thursday:</b>
+	</p>
+	<p>Check our <a href="http://www.chincoteague.com/events.html" target="_blank">Upcoming Events</a> page for details.</p>
+	<ul style="text-align:left;">
+	<li>'Misty of Chincoteague' playing at the Island Theater (Check the Theater for show times)</li>
+	<li>Chincoteague Fireman's Carnival  (7pm - 11pm at the Carnival Grounds)</li>
+	</ul>
+
+	<!-- Friday, Pony Swim Back to Assateague -->
+	<hr>
+	<h2>Friday, July 31, 2020</h2>
+	<p>
+	<b>The Pony Swim Back to Assateague</b>
+	</p>
+	<p>
+	On Friday, the adult ponies will make the return swim to Assateague Island where they will live in the wild for another year.  
+	</p>
+	<p>
+	<b>Other activities on Chincoteague Island Friday:</b>
+	</p>
+	<p>Check our <a href="http://www.chincoteague.com/events.html" target="_blank">Upcoming Events</a> page for details.</p>
+	<ul style="text-align:left;">
+	<li>Chincoteague Fireman's Carnival  (7pm - 11pm at the Carnival Grounds)</li>
+	<li>'Misty of Chincoteague' playing at the Island Theater (Check the Theater for show times)</li>
+	</ul>
+	
+</div>
+	
+<!-- Page Bottom -->
+<?php include 'chinco-page/php/page-bottom.php'; ?>

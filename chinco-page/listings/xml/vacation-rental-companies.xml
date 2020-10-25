@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<vacation-rental-companies-listings>
+
+<listing>
+<name categories="List View,Map View">Chincoteague Island Vacation Cottages</name>
+<image alt="Chincoteague Island Vacation Cottages" width="250" height="216">vacation-rental-companies/chincoteague-island-vacation-cottages.jpg</image>
+<description>
+Let Us Be Your Home Away From Home! Vacation Cottages allows visitors to enjoy Chincoteague to the fullest. Clean, comfortable centrally-located homes offer all the amenities of an island vacation. Our rates are comparable to local hotels with the spaciousness and convenience of a private home. And, as a family-operated business, we truly care about the quality of our service.
+</description>
+<location>4407 Deep Hole Road, Chincoteague VA 23336</location>
+<phone>757-336-3720</phone>
+<email>vacations@chincoteagueisland.com</email>
+<website>http://www.chincoteagueisland.com/</website>
+<lat>37.93402</lat>
+<long>-75.36522</long>
+<gm_link>https://goo.gl/maps/73CYtBL71vq</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Chincoteague Resort Realty</name>
+<image alt="Chincoteague Resort Realty" width="250" height="304">vacation-rental-companies/chincoteague-resort-realty.jpg</image>
+<description>
+Welcome to Chincoteague Resort Realty! Chincoteague Resort Realty opened for business in September, 1999. Although we are a full-service real estate brokerage, offering professional real estate services including residential and commercial sales, buyer brokerage services and property management services, we specialize in Chincoteague Island vacation rentals. Plan your summer vacation with us. Visit us in the fall. We'll help you plan your vacation. So take a look at what we have to offer. We aim to please! And if you're in the market for a good rental investment, let us know. We'll find your perfect place.
+</description>
+<location>6426 Maddox Boulevard, Chincoteague VA 23336</location>
+<phone>757-336-3100 or 800-668-7836</phone>
+<email>rentals@chincoteagueresort.com</email>
+<website>http://www.chincoteagueresort.com/</website>
+<lat>37.93243</lat>
+<long>-75.36266</long>
+<gm_link>https://goo.gl/maps/73CYtBL71vq</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Eastern Shore Retreats</name>
+<image alt="Eastern Shore Retreats" width="250" height="167">vacation-rental-companies/eastern-shore-retreats.jpg</image>
+<description>
+At Eastern Shore Retreats we maintain a small select group of homes for your vacation dream come true. We have homes located throughout the island; some in town, others close to Assateague Island or overlooking the Assateague Channel and the lighthouse. All of our homes are equipped with everything needed for an enjoyable stay. We can accommodate from two to ten guests and summer rates range from $390 to $2000. (plus tax and cleaning fee). Our hope is that we can match you and your family with the right home to insure a memorable vacation while in Chincoteague. We offer rental schedules to meet your needs. So give us a call or send an email so that we can finalize plans to suit your needs.
+</description>
+<location>6759A Maddox Blvd, Chincoteague VA 23336</location>
+<phone>757-336-1088</phone>
+<email>pattjack1@verizon.net</email>
+<website>http://www.chincoteague.com/esretreats</website>
+<lat>37.92765</lat>
+<long>-75.35554</long>
+<gm_link>https://goo.gl/maps/ANHRSAQMjtn</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Harbour Rentals</name>
+<image alt="Harbour Rentals" width="250" height="173">vacation-rental-companies/harbor-rentals.jpg</image>
+<description>
+Welcome to Harbour Rentals. Located on beautiful Chincoteague Island, Virginia, home of the world famous Chincoteague Ponies. Chincoteague National Wildlife Refuge and Assateague Island National Seashore offer A variety of nature activities and many miles of unspoiled beaches. We offer a wide range of accommodations and look forward in assisting you find your perfect vacation getaway.
+</description>
+<location>6426 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>757-336-5490 or 800-221-5059</phone>
+<email>rentals@harbourrentals.net</email>
+<website>http://www.harbourrentals.net/</website>
+<lat>37.93243</lat>
+<long>-75.36266</long>
+<gm_link>https://goo.gl/maps/cawsTcEJmhK2</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Island Getaways</name>
+<image alt="Island Getaways" width="250" height="206">vacation-rental-companies/island-getaways.jpg</image>
+<description>
+No matter what your needs may be, Island Getaways has the perfect vacation rental for you. We have everything from a charming Chincoteague cottage to waterfront luxury with a boat dock right at your door. Open year round with great off-season, spring and summer rates. 
+</description>
+<location>7038 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>757-336-1236</phone>
+<email>ietaway@igetaway.net</email>
+<website>http://www.igetaway.net/</website>
+<lat>37.92945</lat>
+<long>-75.35818</long>
+<gm_link>https://goo.gl/maps/ysXwdWYfHT12</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Sea Shell Cottages</name>
+<image alt="Sea Shell Cottages" width="250" height="185">vacation-rental-companies/sea-shell-cottages.jpg</image>
+<description>
+We have many cottages to offer from one bedroom bungalows to three bedroom Chincoteague style homes. All the cottages are within walking distance to town and the carnival grounds. Off the beaten track, these homes offer convenience, privacy and quiet relaxation.
+</description>
+<location>3720 Willow Street, Chincoteague VA 23336</location>
+<phone>757-336-6589</phone>
+<email>info@seashellmotel.org</email>
+<website>http://www.seashellmotel.org/</website>
+<lat>37.93111</lat>
+<long>-75.37478</long>
+<gm_link>https://goo.gl/maps/9riUonGR9BE2</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Seaside Vacations</name>
+<image alt="Seaside Vacations" width="250" height="250">vacation-rental-companies/sv_listing.jpg</image>
+<description>
+Welcome to Seaside Vacations - a full service vacation rental management company on beautiful Chincoteague Island specializing in short term vacation rentals and property management. We strive to provide friendly, professional service and personal attention to both our guests and homeowners. Whether you are looking for a romantic weekend getaway or a family vacation, we can help you plan the CI vacation of your dreams. CI has so much to offer, and why not enjoy it as the Locals do, from the comfort of a home! A vacation rental is the best way to get the essence of a destination. From everyone having their own comfortable bed to being able to cook meals in your gourmet kitchen, the perks of renting a vacation home are endless. When you book with us, you’re not just reserving lodging; we’re here to help you plan your entire vacation, if you like. Let us help you make the most of your time - right from the start! All of our properties offer express check in. No need to stand in line; you’ve spent enough time in traffic. When you arrive, simply go straight to your home for check-in! 
+</description>
+<location>4101 Main Street, Chincoteague VA 23336</location>
+<phone>844-662-2583 or 757-336-7070</phone>
+<email></email>
+<website>http://www.seasidevacations.rentals/</website>
+<lat>37.927764</lat>
+<long>-75.355394</long>
+<gm_link></gm_link>
+</listing>
+
+</vacation-rental-companies-listings>

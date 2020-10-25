@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<real-estate-company-listings>
+
+<!-- Empty listing 
+<listing>
+<name categories=""></name>
+<image alt="" width="320" height="">vacation-rental-companies/</image>
+<description>
+</description>
+<location></location>
+<phone></phone>
+<email></email>
+<website></website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+-->
+
+<listing>
+<name categories="List View,Map View">Beach Bay Realty</name>
+<image alt="Beach Bay Realty" width="250" height="68">real-estate-companies/bbr-logo.jpg</image>
+<description>
+Beach Bay Realty "specializes in properties located between the Beach &amp; the Bay on Virginia's beautiful Eastern Shore." 
+Whether you are looking to buy or sell a house, town home, condo, land, farm, or commercial property in or around Accomack 
+County, including the towns of Chincoteague, Onancock, Wallops Island, Greenbackville, Temperenceville or the surrounding 
+areas then you have come to the right website. Here you will find a wide array of information about local real estate for 
+sale.
+</description>
+<location>6202 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>757-336-3600</phone>
+<email></email>
+<website>http://www.beachbayrealty.com/</website>
+<lat>37.936042</lat>
+<long>-75.369043</long>
+<gm_link>https://goo.gl/maps/EsLtYBoXtp72</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Coldwell Banker Harbour Realty</name>
+<image alt="Coldwell Banker Harbour Realty" width="250" height="157">real-estate-companies/cb-logo.jpg</image>
+<description>
+Whether you are in the market to buy or sell property in beautiful Chincoteague Island or Accomack County we offer over 40 years
+combined real estate experience.  From purchasing a vacation home, relocating with NASA or Wallops Flight Facility to the first 
+time home buyer we can help with every step. We invite you to visit our web site to search for your next Single Family Home, 
+Condominium, Townhouse, Land, or Commercial real estate purchase.
+</description>
+<location>6455 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>800-989-5854</phone>
+<email></email>
+<website>http://www.discoverchincoteague.com</website>
+<lat>37.932088</lat>
+<long>-75.361737</long>
+<gm_link>https://goo.gl/maps/GUTJ1ZGfChG2</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Dockside Properties</name>
+<image alt="Dockside Properties" width="250" height="163">real-estate-companies/dockside-properties-logo.jpg</image>
+<description>
+Dockside Properties, located on Chincoteague Island, has been serving the beautiful Eastern Shore of Virginia proudly for over 
+15 years and now servicing Maryland as well. Here at Dockside we understand that buying or selling a home is more than just a 
+transaction: it's a life-changing experience. That’s why our team of highly-seasoned real estate professionals is dedicated to 
+providing exceptional, personalized service for all of our clients. We take great pride in the relationships we build and always 
+work relentlessly on the client’s behalf to help them achieve their real estate goals.
+</description>
+<location>6325 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>888-939-SOLD</phone>
+<email></email>
+<website>http://www.gowithdockside.com</website>
+<lat>37.934432</lat>
+<long>-75.376340</long>
+<gm_link>https://goo.gl/maps/LFPWgvsiTf42</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Eastern Shore Properties</name>
+<image alt="Eastern Shore Properties" width="250" height="188">real-estate-companies/esp-logo.jpg</image>
+<description>
+Eastern Shore Properties can assist you with all of your property needs. We have many waterfront and non-waterfront homes, as well 
+as commercial properties for sale. We can help with the entire process of buying a home - to finding the perfect lot - to assisting 
+you with finding a contractor to build your "dream home" or finding a place for your new business. We also offer properties for sale 
+in the surrounding areas. We are located just across from the Chincoteague Chamber of Commerce building on the traffic circle as you 
+go to Assateague. 
+</description>
+<location>6759 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>800-515-3121</phone>
+<email></email>
+<website>http://www.chincoteague.com/ESP/</website>
+<lat>37.926888</lat>
+<long>-75.353603</long>
+<gm_link>https://goo.gl/maps/b8ViaKmYznw</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Keller Williams Delmarva</name>
+<image alt="Keller Williams Delmarva" width="250" height="250">real-estate-companies/kwd_logo.jpg</image>
+<description>
+Dreaming of owning your very own piece of Paradise on the Eastern Shore of Virginia? Welcome to Keller Williams Delmarva - here to serve all of your 
+Real Estate needs on beautiful Chincoteague Island &amp; beyond. We began our business with the belief that there is a better way to Buy &amp; Sell 
+Homes here on the Shore. Our personal service, attention to detail, tireless attitude, &amp; knowledge of the ESVA makes us your best choice. We are also 
+the leading area experts for Property Management &amp; Vacation Rentals utilizing the latest Technology in both industries! Let us help you Buy the Beach!
+</description>
+<location>4101 Main Street, Chincoteague, VA 23336</location>
+<phone>757-336-7070</phone>
+<email></email>
+<website>http://LiveTheShoreLife.com</website>
+<lat>37.927764</lat>
+<long>-75.355394</long>
+<gm_link></gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Long &amp; Foster Chincoteague</name>
+<image alt="Long &amp; Foster Chincoteague" width="250" height="190">real-estate-companies/Long-and-Foster-Realtors_logo.png</image>
+<description>
+We've been serving Chincoteague Island and the surrounding area since 1991. We provide good honest service with straight answers! Purchasing a 
+home is one of the biggest decisions most people will make in their life. You want to make sure that you make a good buying decision based on 
+accurate information. We know the market well and can help you navigate through the entire process, from beginning your search to closing the 
+deal. 
+</description>
+<location>6426 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>800-668-7836</phone>
+<email></email>
+<website>http://www.chincoteagueforsale.com</website>
+<lat>37.932402</lat>
+<long>-75.362746</long>
+<gm_link>https://goo.gl/maps/vfH9tyQfZdK2</gm_link>
+</listing>
+
+<listing>
+<name categories="List View">Ocean East Realty</name>
+<image alt="Ocean East Realty" width="250" height="58">real-estate-companies/premierlogo.png</image>
+<description>
+Considering selling your property, planning to relocate, looking to purchase real estate on Chincoteague or surrounding areas of 
+Virginia's Eastern Shore? Ocean East Realty is here to help. We offer hands on assistance to familiarize you with all that 
+Chincoteague Island has to offer. We pride ourselves with having direct contact with each of our clients and maintaining open lines 
+of communication. Our goal is to help you find that island home you've always dreamed of. Ocean East Realty is a locally owned 
+company established by island natives, Linda Budd &amp; Donna Jones. Linda &amp; Donna have brought together a team of friendly professionals 
+who are passionate about Chincoteague Island and all that it has to offer.
+</description>
+<location>6373 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>866-406-3354</phone>
+<email></email>
+<website>http://www.chincoteagueoceaneast.com/</website>
+<lat>37.933319</lat>
+<long>-75.364055</long>
+<gm_link></gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Seaside Properties</name>
+<image alt="Seaside Properties" width="180" height="203">real-estate-companies/seaside-properties-logo.jpg</image>
+<description>
+Whether you are in the market to buy or sell property, Seaside Properties on beautiful Chincoteague Island is here to help. We invite you to visit our 
+web site to search for your next Single Family Home, Condominium, Townhouse, Land, or Commercial Real Estate purchase. Let us help you find your Happy 
+Place in the Sun! We offer a full suite of Real Estate services to include Sales, Rentals, Vacation Rentals, and Property Management.  No matter what 
+your Real Estate needs from Chincoteage to Captains Cove and beyond, we can fullfil all your Real Estate service needs.
+</description>
+<location>4073 Main Street, Chincoteague VA 23336</location>
+<phone>757-336-6000</phone>
+<email></email>
+<website>http://seasidepropertiesllc.com</website>
+<lat>37.934190</lat>
+<long>-75.377196</long>
+<gm_link>https://goo.gl/maps/jVFb9Kich2y</gm_link>
+</listing>
+
+</real-estate-company-listings>

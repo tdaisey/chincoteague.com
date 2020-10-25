@@ -1,0 +1,38 @@
+<!-- Page Top -->
+<?php 
+	$page_title = "Chincoteague Island Surfing";
+	$page_description = "Surfing on Assateague Island, Virginia";
+	$header_addendum = '<script type="text/javascript" src="https://www.swellinfo.com//widget/js/getWidget.1532478638.js" data-widget-id="7363"></script>';
+	$index_page = False;
+	include 'chinco-page/php/page-top.php';
+?>
+
+<!-- Main Section -->
+<div class="container text-center">
+	
+	<!-- Title -->
+	<h1><?php echo $page_title; ?></h1>	
+		
+	<!-- Breadcrumbs -->
+	<ol class="breadcrumb">
+		<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+		<li class="breadcrumb-item"><a href="activities.html">Activities</a></li>
+		<li class="breadcrumb-item active">Surfing</li>
+	</ol>
+	
+	<p style="text-align:center;">
+	<a href="assateagueisland.html">Assateague Island</a> offers a pristine beach and fun waves for surfing, boogie boarding, and body surfing.
+	</p>
+	
+	<h2>Current Conditions</h2>
+	<div id="swellinfo-widget-7363"></div>
+	
+	<br>
+	
+	<img src="chinco-page/images/surfing.jpg" style="max-width:100%;" alt="Surfing Chincoteague Island, Virginia">
+	
+	
+</div>
+	
+<!-- Page Bottom -->
+<?php include 'chinco-page/php/page-bottom.php'; ?>

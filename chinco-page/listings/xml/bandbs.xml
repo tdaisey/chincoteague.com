@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<bandb-listings>
+
+<listing>
+<name categories="List View,Map View">1848 Island Manor House</name>
+<image alt="1848 Island Manor House" width="250" height="129">bandbs/islandmanorhouse2.jpg</image>
+<description>
+Our historic B and B is located in the charming community of Chincoteague. An island filled with romance and yester-year charm. We are Chincoteague Island's most historic B and B, having played a role in island history since 
+before the days of the American Civil War. This romantic Bed &amp; Breakfast is host to several beautiful weddings, receptions, and various group events throughout the year. The 1848 Island Manor House Bed and Breakfast is the 
+perfect place to stay for any occasion. 
+</description>
+<location>4160 Main Street, Chincoteague VA 23336</location>
+<phone>Toll Free: 1-800-852-1505 Local Calls: 757-336-5436</phone>
+<email>hosts@islandmanor.com</email>
+<website>http://www.islandmanor.com/</website>
+<lat>37.934985</lat>
+<long>-75.374232</long>
+<gm_link>http://goo.gl/maps/2iFwq</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Channel Bass Inn</name>
+<image alt="Channel Bass Inn" width="250" height="181">bandbs/Channel_Bass_Inn.jpg</image>
+<description>
+A world of peaceful elegance surrounds you when you enter the Channel Bass Inn. Originally built as a private home in 1892, the Channel Bass Inn was converted to a small hotel in the 1920s. Today, this 6800 sq. ft. Chincoteague Island bed and breakfast landmark has seven beautifully furnished, air-conditioned rooms, including two suites, one of which is on the first floor. The rooms are spacious and quiet, most with king or queen beds, and have comfortable sitting areas for reading and relaxing. The two suites, the Ambleside and the Wetherby, have a separate sitting room. Beautiful English perennial and Japanese gardens surround the Inn ~ an ideal spot for that early morning cup of coffee, or just to relax. The waters of Virginia's Chincoteague Bay are visible from some of the guestrooms. The Inn also has a public tea room where a traditional English afternoon tea can be enjoyed by all visitors to Chincoteague Island. 
+</description>
+<location>6228 Church Street, Chincoteague VA 23336</location>
+<phone>757-336-6148 or 800-249-0818</phone>
+<email>barbara@channelbassinn.com</email>
+<website>http://www.channelbassinn.com/</website>
+<lat>37.93448</lat>
+<long>-75.37566</long>
+<gm_link>http://goo.gl/maps/Qs6X4</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Garden and Sea Inn</name>
+<image alt="Garden and Sea Inn" width="250" height="141">bandbs/gardenandseainn.jpg</image>
+<description>
+A romantic, pet-friendly B&amp;B near Chincoteague Island on the Eastern Shore. Escape to the Garden and Sea Inn for an elegant, yet casual respite with just the right combination of personal attention and ambiance. The Inn has three beautiful homes on five secluded acres rich in history, architecture and natural beauty. Enjoy large, spacious rooms with private bathrooms, most with jacuzzi tubs. Relax on one of our porches or at our outdoor pool. A delicious three-course breakfast is included with your stay. Visit the Eastern Shore's charming, quaint towns and marinas. We are ideally located for those who plan to visit not only Chincoteague Island, but also the rest of the Eastern Shore.
+</description>
+<location>4188 Nelson Road, New Church VA 23415 (Near Chincoteague Island)</location>
+<phone>757-824-4123</phone>
+<email>innkeeper@gardenandseainn.com</email>
+<website>https://gardenandseainn.com/</website>
+<lat>37.98044</lat>
+<long>-75.53096</long>
+<gm_link>http://goo.gl/maps/A581x</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">Miss Molly's Inn</name>
+<image alt="Miss Mollys Inn" width="250" height="195">bandbs/missmollysinn3.jpg</image>
+<description>
+In 1886, Mr. J.T. Rowley, then known as "The Clam King of the World" built a charming Victorian home on Chincoteague Island. His daughter, "Miss Molly" was one of the Island’s best loved citizens, and she lived in the house until the age of eighty-four. Today, the house has been beautifully restored and offers accommodations and warm hospitality to the Island visitor. Good conversation, interesting antiques, and gentle evenings enjoying the breeze on the porches make a visit to Miss Molly’s a most relaxing and memorable experience.
+</description>
+<location>4141 Main Street, Chincoteague VA 23336 </location>
+<phone>757-336-6686 or 800-221-5620</phone>
+<email>missmollysinn@verizon.net</email>
+<website>http://missmollys-inn.com/</website>
+<lat>37.93476</lat>
+<long>-75.37504</long>
+<gm_link>http://goo.gl/maps/h75Rt</gm_link>
+</listing>
+
+<listing>
+<name categories="List View,Map View">The Watson Guest House</name>
+<image alt="The Watson Guest House" width="250" height="188">bandbs/watsonhouse.jpg</image>
+<description>
+Built in 1898, this home is the island’s finest example of Chincoteague Architecture. It was the home of one of the islands most successful entrepreneurs. The Watson family was wealthy by Island standards of the day. These folks were watermen, merchants, herders and farmers and successful in all regards. The Watson House is the closest Guest House to the Ocean Beaches of Assateague Island. Come to America's Number 1 Beach Town as rated by an AOL survey of 2010. Stay at the Island's finest Chincoteague style home. 
+</description>
+<location>4240 Main Street, Chincoteague VA 23336</location>
+<phone>757-336-1564</phone>
+<email>relax2477@aol.com</email>
+<website>http://www.watsonhouse.com/</website>
+<lat>37.93617</lat>
+<long>-75.37222</long>
+<gm_link>http://goo.gl/maps/aMvI5</gm_link>
+</listing>
+
+</bandb-listings>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<activities-listings>
+
+<!-- Empty listing 
+<listing>
+<name></name>
+<image alt="" width="320" height="">activities/</image>
+<description>
+</description>
+<location></location>
+<phone></phone>
+<email></email>
+<website></website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+-->
+
+<!-- Category: Bike and Beach Gear Rental -->
+
+<listing>
+<name categories="Bike Rentals,Map View">The Bike Depot</name>
+<image alt="The Bike Depot" width="214" height="240">activities/bike-depot-banner.jpg</image>
+<description>
+The closest bicycle rentals to the beach, The Bike Depot offers a wide selection of over 200 standard and specialty cycles for riders of all ages. Beach rentals include heavy-duty sunblocking umbrellas, lightweight beach chairs, boogie boards, and skim boards. Bicycles are first-come, first-served--Hourly, Daily, and Weekly rates available.
+</description>
+<location>7058 Maddox Boulevard, Chincoteague VA 23336</location>
+<phone>757-336-5511</phone>
+<email>refugeinn@verizon.net</email>
+<website>http://www.refugebikes.com/</website>
+<lat>37.924258</lat>
+<long>-75.353779</long>
+<gm_link>https://goo.gl/maps/NhGthyMQsBQ2</gm_link>
+</listing>
+
+<listing>
+<name categories="Bike Rentals,Map View">Riptide E-Ride</name>
+<image alt="Riptide E-Ride" width="214" height="240">activities/riptide-eride.jpg</image>
+<description>
+Electric bike rental on Chincoteague island. Enjoy the beautiful scenery and wildlife that surrounds Chincoteague island on our quiet electric bikes. Leave the crowds behind and feel the freedom of choosing your own adventure, from bike paths, to trails, to paved roads. Our e-bikes have been specifically designed for sight seeing and leisure as well as travel and mobility. 
+</description>
+<location>6354 Highland Park Dr, Chincoteague VA 23336</location>
+<phone>443-735-2012</phone>
+<email>dmadone2020@gmail.com</email>
+<website>https://riptideeride.com/</website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+
+<!-- Category: Day Cruise to Tangier Island -->
+
+<listing>
+<name categories="Day Cruise to Tangier Island">Tangier Island Cruises</name>
+<image alt="Day Cruise to Tangier Island" width="250" height="350">activities/TIC_Banner_Ad.png</image>
+<description>
+Chart a course back in time to the small, picturesque island of Tangier. Once visited by  John Smith in 1608, the island has changed little since it was first settled by John Crockett in 1686. See the beautiful scenery of the Chesapeake Bay and Tangier Sound aboard a 90' luxury vessel, the Steven Thomas, while you listen to the history of Tangier and other islands namely Fox Island, Watts Island, and Port Isobel. Upon arrival at Tangier Island, enjoy your afternoon by exploring, dining, shopping and visiting with the local people, most of whom speak a unique English Restoration era dialect of American English. Bicycle and golf cart rentals are available upon arrival for a small fee or just walk. Sites of interest include the Tangier Museum, the Swain Memorial Methodist Church built in 1899 and the Connorton House once home to Sergeant Bud Connorton. Learn how the British forces used Tangier as a base during the War of 1812 and  about Tangier's special role in the history of aviation. Day cruises are offered daily May 15th through October 15th at 12:30pm. A round trip ticket to Tangier Island is just $27.00. Special pricing for children and one-way tickets. Reservations are not required. You can buy tickets online or upon arrival in Crisfield. A visit to Tangier Island is unlike any place you’ve ever experienced. Come with us as we step back in time...
+</description>
+<location>1001 West Main Street, Crisfield, MD 21817</location>
+<phone>410-968-2338</phone>
+<email>Tangierislandcruises@verizon.net</email>
+<website>http://www.tangierislandcruises.com</website>
+<lat>1234</lat>
+<long>1234</long>
+<gm_link>https://goo.gl/maps/RfSwdkW6x4H2</gm_link>
+</listing>
+
+<!-- Category: Equipment Rentals -->
+<listing>
+<name categories="Equipment Rentals,Map View">Chincoteague Island Outfitters</name>
+<image alt="Young man on paddle board" width="250" height="322">activities/cio.jpg</image>
+<description>
+Anyone who has been on vacation, especially with children, knows the struggle of packing… not just packing for your destination, 
+but repacking to leave as well. You always have more stuff at the end of the vacation and somehow things do not fit as easily as 
+before. Chincoteague Island Outfitters (CIO) strives to make that experience a little easier by offering a variety of beach 
+equipment, tables and chairs, kayaks, and much more all for rent. They also have unique gifts available for purchase. Don't be 
+caught on the hot sand without a chair! Come to CIO for all your vacation rental needs. We are always adding to our inventory, 
+so please ask if you don't see something on our list! FREE DELIVERY ON THE ISLAND! 
+</description>
+<location>7885 Eastside Road, Chincoteague VA 23336</location>
+<phone>757-336-5129</phone>
+<email>info@chincoteagueoutfitters.com</email>
+<website>http://www.chincoteagueislandoutfitters.com</website>
+<lat>37.924323</lat>
+<long>-75.365694</long>
+<gm_link>https://goo.gl/maps/TkPcThVFZnQohUkj8</gm_link>
+</listing>
+
+<!-- Category: Event Venues -->
+
+<listing>
+<name categories="Event Venues,Map View">The Chincoteague Center</name>
+<image alt="The Chincoteague Center" width="242" height="150">activities/chincoteague-center.jpg</image>
+<description>
+Let world-famous Chincoteague Island be the backdrop for your next business or social event! This quaint seaside town retains the flavor of yesteryear while providing all the amenities of today. Whether you’re planning a convention, tradeshow, corporate event or conference, class, festival, wedding or reunion – the Chincoteague Center provides the perfect venue and meeting place. Our modern, spacious facility can accommodate up to 800 attendees in a 9,000 square foot area that includes sliding wall partitions for virtually unlimited space options. The island’s beautiful downtown district hosts a multitude of shops, seafood restaurants and art studios – and its close proximity to the NASA Wallops Flight Facility, NOAA and the National Wildlife Refuge make it a very unique event destination. Add in wild ponies, boating, biking, fishing and rocket launches and you’ve got one unforgettable setting, all within 3.5 hours of the Washington DC / Baltimore area and within 2 hours of Norfolk International Airport. Make Chincoteague Center the venue for your next special event! 
+</description>
+<location>6155 Community Drive, Chincoteague VA 23336</location>
+<phone>757-336-0614</phone>
+<email>center@thechincoteaguecenter.com</email>
+<website>http://www.thechincoteaguecenter.com/</website>
+<lat>37.935731</lat>
+<long>-75.359617</long>
+<gm_link>https://goo.gl/maps/jrY3rh1QZtk</gm_link>
+</listing>
+
+<!-- Category: History Tours -->
+<listing>
+<name categories="History Tours">Step Through Time Tours</name>
+<image alt="The Chincoteague Center" width="242" height="150">activities/step_through_time_tours.jpg</image>
+<description>
+Chincoteague's history is a rich and exciting tale of Indians, settlers, pirates, ponies, oysters and buried treasures. If you've ever wondered what the real 
+history of Chincoteague Island is all about, take the tour that shares the fascinating and true story of this beautiful island across the water. Tours walk 
+visitors through the downtown, while popping into unexpected locations to hear fascinating but little known facts about the island and her people.
+</description>
+<location>Historic Downtown, Chincoteague VA 23336</location>
+<phone>757-894-1953</phone>
+<email>islandhistorytours@yahoo.com</email>
+<website>https://www.facebook.com/Chincoteague-Step-Through-Time-Tours-100169668125635</website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+
+
+<!-- Category: Horse Riding Lessons and Trail Rides -->
+
+<listing>
+<name categories="Horse Riding Lessons and Trail Rides">Queen Hive Farm</name>
+<image alt="Queen Hive Farm" width="250" height="154">activities/queen-hive.jpg</image>
+<description>
+Queen Hive Farm is the Eastern Shore's Royal Place to ride. Located just minutes from Chincoteague, we offer trial rides and riding lessons for both local residents and visitors to the area. Book a riding lessson on one of our gentle, well trained lesson horses - fun for any age! The entire family will enjoy our Trail Rides. No experience necessary! We have a horse for everyone - even Dad. Our trails are very scenic, you might see wild turkeys, ring-necked pheasants, eastern bluebirds, and even white tailed deer. Visitors of all experience levels rate this 5 stars! We look forward to hosting you on our farm.
+</description>
+<location></location>
+<phone>757-990-0017</phone>
+<email></email>
+<website>http://www.chincoteague.com/QueenHive/</website>
+<lat>1234</lat>
+<long>1234</long>
+<gm_link></gm_link>
+</listing>
+
+<!-- Category: Kayak Rentals -->
+
+<listing>
+<name categories="Kayak Rentals">Snug Harbor Kayak Rentals</name>
+<image alt="Snug Harbor Kayak Tours &amp; Rentals" width="222" height="127">activities/snug-harbor-kayak-tours.jpg</image>
+<description>
+Snug Harbor tours &amp; rentals at Snug Harbor Marina on Chincoteague island is the biggest and highly recognized kayak outfitter on the Eastern Shore of Virginia offering premium kayak rentals as well as daily Kayak Eco Tours throughout Chincoteague and Assateague waterways. Our Kayak Rentals and Kayak Eco Tours take off from Snug Harbor Marina which is located conveniently right across the channel from Assateague Island and the Refuge. 
+</description>
+<location>7536 East Side Road, Chincoteague VA 23336</location>
+<phone>757-336-6176</phone>
+<email>snugharbor@verizon.net</email>
+<website>http://www.assateaguetours.com</website>
+<lat>37.916790</lat>
+<long>-75.374242</long>
+<gm_link>https://goo.gl/maps/ChsbAqhcC6U2</gm_link>
+</listing>
+
+<!-- Category: Kayak Tours -->
+
+<listing>
+<name categories="Kayak Tours,Map View">Assateague Adventures Kayak Tours</name>
+<image alt="Assateague Adventures Kayak Tours" width="241" height="120">activities/assateague-adventures.jpg</image>
+<description>
+Welcome to Assateague Adventures! Where we specialize in unforgettable memories! Our tours are suitable for all ages and levels. Take a kayak tour to see the 
+wildlife and wonder of Assateague while our guides share the beautiful history and folklore that the barrier islands have to offer. Get hands on education and 
+interaction with the critters of the sea, while learning about your favorite pirates who once chartered these waters. Now including private paddle board lessons 
+and tours (call for all paddle board inquires).
+</description>
+<location>Memorial Park Dr, Chincoteague VA, 23336</location>
+<phone>865-317-2507</phone>
+<email>assateagueadventuresinfo@gmail.com</email>
+<website>https://assateagueadventures.com</website>
+<lat>37.917027</lat>
+<long>-75.380436</long>
+<gm_link></gm_link>
+</listing>
+
+<listing>
+<name categories="Kayak Tours,Map View">Assateague Explorer Kayak Tours</name>
+<image alt="Assateague Explorer Kayak Tours &amp; Rentals" width="241" height="120">activities/assateague-explorer-kayak-tour.png</image>
+<description>
+Escape to a nature's haven where wild ponies roam freely on a kayaking adventure with Assateague Explorer. Guided tours start right across the channel from Assateague Island, the wildlife 
+refuge. Kayak from the scenic dock overlooking the Assateague Lighthouse and explore the boarders of Assateague's extensive calm western shoreline. Unique island opportunities to 
+experience solitude, nature and wildlife viewing. Paddle through the warm back waters of barrier islands in our premium sea touring or sit on top ocean kayaks. Search for the famous wild 
+ponies, eagles, shorebirds and other wildlife as you paddle through creeks, channels, coves or sometimes land on a remote beach at Assateague. No experience necessary. It is a fun way to 
+see great parts of the island with your family &amp; friends. 
+</description>
+<location>Chincoteague VA, 23336</location>
+<phone>1-866-PONY SWIM (toll free) or (757) 336-5956</phone>
+<email>info@assateagueexplorer.com</email>
+<website>http://www.assateagueexplorer.com/</website>
+<lat>37.916672</lat>
+<long>-75.380486</long>
+<gm_link></gm_link>
+</listing>
+
+<listing>
+<name categories="Kayak Tours,Map View">Snug Harbor Kayak Tours &amp; Rentals</name>
+<image alt="Snug Harbor Kayak Tours &amp; Rentals" width="222" height="127">activities/snug-harbor-kayak-tours.jpg</image>
+<description>
+Old Town Canoe &amp; Kayak tours at Snug Harbor Marina on Chincoteague island is the biggest and highly recognized kayak outfitter on the Eastern Shore of Virginia offering premium kayak rentals as well as daily Kayak Eco Tours throughout Chincoteague and Assateague waterways. Our Kayak Rentals and Kayak Eco Tours take off from Snug Harbor Marina which is located conveniently right across the channel from Assateague Island and the Refuge. 
+</description>
+<location>7536 East Side Road, Chincoteague VA 23336</location>
+<phone>757-336-6176</phone>
+<email>snugharbor@verizon.net</email>
+<website>http://www.assateaguetours.com</website>
+<lat>37.916790</lat>
+<long>-75.374242</long>
+<gm_link>https://goo.gl/maps/ChsbAqhcC6U2</gm_link>
+</listing>
+
+<!-- Category: Marine and Coastal Family Programs
+<listing>
+<name categories="Marine and Coastal Family Programs">Chincoteague Bay Field Station</name>
+<image alt="Chincoteague Bay Field Station" width=" 250" height="101">activities/chinco-bay-field-station.jpg</image>
+<description>
+The Chincoteague Bay Field Station provides outstanding multi-disciplinary, educational and research opportunities that celebrate the rich natural, cultural, economic, and technological resources of the mid-Atlantic Coastal region through field-based and hands-on learning. We offer a variety of programs including summer camps, family programs, kayak tours, photography workshops and much more!
+</description>
+<location>34001 Mill Dam Road, Wallops Island, VA 23337</location>
+<phone>757-824-5636</phone>
+<email>info@cbfieldstation.org</email>
+<website>http://www.cbfieldstation.org/</website>
+<lat>37.935442</lat>
+<long>-75.481723</long>
+<gm_link>https://goo.gl/maps/PxLs5BuWJiw</gm_link>
+</listing>
+ -->
+ 
+<!-- Category: Mini-Golf and Amusements -->
+
+<listing>
+<name categories="Mini-Golf and Amusements,Map View">Refuge Golf and Amusements</name>
+<image alt="Refuge Golf and Amusements" width="242" height="162">activities/refuge-golf.jpg</image>
+<description>
+Toddlers to grownups all find fun and safe things to do at Refuge Golf and Amusements. Our youngest visitors enjoy the kiddie merry-go-round and other rides just their size. The arcade attracts all ages. Challenge your companions to a round of mini-golf or a go-kart race. The karts seat one or two. Or challenge yourself on the Rock Wall. To cool off on hot days you’ll appreciate the misters along the mini-golf course, water wars in the bumper boats and enjoy ice cream and funnel cakes in our air-conditioned arcade. 
+</description>
+<location>6528 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>757-336-5420</phone>
+<email>refugegolf@verizon.net</email>
+<website>http://www.gotofunland.com/</website>
+<lat>37.930399</lat>
+<long>-75.359802</long>
+<gm_link>https://goo.gl/maps/UWys2MNgHBn</gm_link>
+</listing>
+
+<!-- Category: Museums and Visitor Centers -->
+
+<listing>
+<name categories="Museums and Visitor Centers">Delmarva Discovery Center</name>
+<image alt="Delmarva Discovery Center" width="244" height="146">activities/delmarva-discovery-center.jpg</image>
+<description>
+Visit the Shore's leading destination for hands-on discovery. Unleash your imagination- and your kids- in this exciting new museum including a 6,000 gallon aquarium, crawl-through beaver lodge, a Native American village, a larger-than-life steamship and many special events throughout the year! Visit our web site or call us at 410-957-9933 for more details.
+</description>
+<location>2 Market Street, Pocomoke City MD</location>
+<phone>410-957-9933</phone>
+<email>contact@delmarvadiscoverycenter.org</email>
+<website>http://www.delmarvadiscoverycenter.org/</website>
+<lat>1234</lat>
+<long>1234</long>
+<gm_link>https://goo.gl/maps/A9Z1xEuZFuF2</gm_link>
+</listing> 
+
+<!-- Category: Outdoor Waterpark -->
+
+<listing>
+<name categories="Outdoor Waterpark,Map View">Maui Jack's</name>
+<image alt="Maui Jacks" width="250" height="148">activities/MJ_Logos-FullColor.jpg</image>
+<description>
+Maui Jack invites the whole family to catch a wave at his brand new waterpark right here on Chincoteague Island, VA. Enjoy sliding and splashing on brand new waterslides, 
+floating on the lazy river, chilling in our tiki cabanas, refueling at our concession area and shopping for Maui Jack's souvenirs. Be sure to keep an eye out for our namesake, 
+the legendary Maui Jack, an old-time surfer dude straight from the swells of the North Shore who loves the laid back vibe of Chincoteague. You're likely to catch a glimpse of 
+Jack enjoying his summer afternoons slipping, splashing and sliding in the bodacious shark-free waters of Chincoteague's newest waterpark attraction. Passes are available 
+online at <![CDATA[<a href="http://www.mauijacks.com" target="_blank">www.mauijacks.com</a>]]>.
+</description>
+<location>6742 Maddox Blvd, Chincoteague VA 23336</location>
+<phone>757-336-1800</phone>
+<email></email>
+<website>http://www.mauijacks.com</website>
+<lat>37.926596</lat>
+<long>-75.355350</long>
+<gm_link>https://goo.gl/maps/yCZBU83jwYF2</gm_link>
+</listing> 
+
+<!-- Category: Public Library -->
+
+<listing>
+<name categories="Public Library,Map View">Chincoteague Island Library</name>
+<image alt="Chincoteague Island Library" width="250" height="165">activities/library.jpg</image>
+<description>
+The Chincoteague Island Library serves the residents of Chincoteague, our Eastern Shore neighbors, and many seasonal visitors. The library contains current and popular books, audio books, e-books, CDs, a basic reference collection, magazines, DVDs, videos, and newspapers. There are computers for e-mail, word processing, and surfing the net. The Library also offers 24-hour wireless internet connection. We offer a variety of Children's Programs, as well as Adult Programs. The Library Benefit Shop sells great used books for beach reading and much more. Check our web site for hours of operation and more details about the programs we offer.
+</description>
+<location>4077 Main Street, Chincoteague VA</location>
+<phone>757-336-3460</phone>
+<email>chincoteagueislandlibrary@yahoo.com</email>
+<website>http://www.chincoteagueislandlibrary.org/</website>
+<lat>37.934202</lat>
+<long>-75.376993</long>
+<gm_link>https://goo.gl/maps/HWFTpvh54n92</gm_link>
+</listing>
+
+<!-- Category: Scooter Rentals -->
+<listing>
+<name categories="Scooter Rentals">Sun Scooters</name>
+<image alt="Virginia Hang Gliding" width="250" height="214">activities/sunscooters.jpg</image>
+<description>
+There is no better way to get around Chincoteague Island!  Our street bike style scooters are the best rentals on the Island.  Exploring our 7 mile long, 
+3 mile wide Island on a scooter is a lot of fun!  It's a must do activity for your Chincoteague Island vacation.  Our scooters are like new and run great.  
+Come check them out!
+</description>
+<location>6303 Maddox Blvd, Chincoteague Island, VA 23336</location>
+<phone>757-336-4500</phone>
+<email></email>
+<website>https://www.facebook.com/CI.beachwear/</website>
+<lat>37.934200</lat>
+<long>-75.365502</long>
+<gm_link>https://goo.gl/maps/oCimnWcHFbD2</gm_link>
+</listing>
+
+
+</activities-listings>

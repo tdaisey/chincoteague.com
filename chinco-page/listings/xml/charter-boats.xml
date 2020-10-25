@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-style.css"?>
+
+<charter-boat-listings>
+
+<!-- Empty listing 
+<listing>
+<name categories="Charter Boats,Map View"></name>
+<image alt="" width="320" height="">charter-boats/</image>
+<description>
+</description>
+<location></location>
+<phone></phone>
+<email></email>
+<website></website>
+<lat></lat>
+<long></long>
+<gm_link></gm_link>
+</listing>
+-->
+
+<!-- Category: Boat Tours -->
+
+<listing>
+<name categories="Charter Boats,Map View">Chincoteague Hunting and Fishing Center</name>
+<image alt="Chincoteague Hunting and Fishing Center" width="220" height="165">charter-boats/fishtales.jpg</image>
+<description>
+Let's go fishing! Aboard Captain Pete's "FISH TALES". Captain Pete is Chincoteague's longest running charter boat Captain. We fish the Bay, Ocean and Reef for species of fish too numerous to list. Everything is provided. We will 
+even bait your hook, remove your fish, and clean them at the end of your trip. Trips starting at $29.00 adult/ $25.00 12 and under. CALL 757-336-FISH (3474). 
+</description>
+<location>Curtis Merritt Harbor</location>
+<phone>757-336-FISH (3474)</phone>
+<email></email>
+<website>http://www.chincoteague.com/fishtales/</website>
+<lat>37.903554</lat>
+<long>-75.405983</long>
+<gm_link></gm_link>
+</listing>
+
+<listing>
+<name categories="Charter Boats,Map View">Island Queen Inland Charters</name>
+<image alt="Island Queen Inland Charters" width="229" height="159">boat-tours/islandqueen.jpg</image>
+<description>
+Chincoteague Island Inland Bay fishing for flounder, kingfish, croaker, bluefish, trout, or spot on board a 26 ft. Pontoon Boat. Species may vary during season.  All bait, fishing rod/tackle &amp; licenses supplied or bring your 
+own. Captain experienced with over 30 years fishing the inland waters of Chincoteague Island. Children welcome and handicap access available. Scenic Cruises available also.
+</description>
+<location>Curtis Merritt Harbor - Slip 16</location>
+<phone>757-336-3528 or 757-990-2404 cell</phone>
+<email>ckoski2@verizon.net</email>
+<website>http://www.islandqueeninlandcharters.com/</website>
+<lat>37.901439</lat>
+<long>-75.407576</long>
+<gm_link>https://goo.gl/maps/nybCmBDLbvS2</gm_link>
+</listing>
+
+<listing>
+<name categories="Charter Boats">Light Tackle Charters, Inc.</name>
+<image alt="Light Tackle Charters, Inc." width="228" height="189">boat-tours/LTC-Banner.jpg</image>
+<description>
+Over 45 Years "On The Water". A very seaworthy Parker 23' Center Console Boat with Yamaha 200HP Motor which can accommodate up to 
+six (6) people. Offering <![CDATA[<u>exclusively</u>]]>, trips out of Crisfield Maryland <![CDATA[<u>only</u>]]> on the Chesapeake Bay side of the peninsula (only a 50 
+minute drive from Chincoteague). Fish the middle Chesapeake Bay with Captain Walt where we catch Striped Bass, Speckled Trout, Red 
+Drum, Bluefish and other species. Also offering trips to remote and quaint <![CDATA[<u>Tangier Island Virginia</u>]]> as well as 
+<![CDATA[<u>Smith Island Maryland</u>]]>.
+</description>
+<location>543 Wellington Road, Crisfield, MD 21817</location>
+<phone>410-845-3231</phone>
+<email>CapnWalt@gmail.com</email>
+<website>http://www.ltcharters.com/</website>
+<lat>1234</lat>
+<long>1234</long>
+<gm_link>https://goo.gl/maps/zvzGsebTxyA2</gm_link>
+</listing>
+
+<listing>
+<name categories="Charter Boats,Map View">Marshland Charters</name>
+<image alt="Marshland Charters" width="230" height="161">charter-boats/marshland-charters.jpg</image>
+<description>
+Bay fishing or cruising the bays and coves around Chincoteague Island can make some great lasting memories for you and your family. Captain Matt is dedicated to helping you with these memories. We fish the bays and channels for 
+flounder, croakers, blue fish, and many other species. We will also take you on a true back bay cruise. We go places no other cruise boats go to see birds on the flats, Ospreys on their nest, and Eagles. Dolphins can be seen 
+feeding and playing. You may also get to walk on a sand bar and get sand in your toes!
+</description>
+<location>Curtis Merritt Harbor - Slip #85</location>
+<phone>757-894-1627 or 757-894-1626</phone>
+<email>marshlandcharters@verizon.net</email>
+<website>http://www.chincoteague.com/marshland-charters/</website>
+<lat>37.903241</lat>
+<long>-75.405973</long>
+<gm_link></gm_link>
+</listing>
+
+<listing>
+<name categories="Charter Boats,Map View">Proud Mary Charters</name>
+<image alt="Proud Mary Charters" width="228" height="201">boat-tours/pm-charters.jpg</image>
+<description>
+THE PROUD MARY is a 24 foot BayRider skiff with plenty of room for six anglers or pleasure cruisers. Take a fishing charter with Captain George, or tour the surrounding area and go to the back bay to view nature. All bait and 
+tackle is included. Just bring your snacks and beverages. Don't forget your sun screen, cameras and sun glasses. With no more than six passengers, sit back and enjoy your trip. The Proud Mary offers two hour and four hour trips. 
+THE PROUD MARY TOO is a 19 foot Carolina Skiff. Join Captain Mary on a CUSTOM TOUR of the beautiful waters that surround the Island. Captain Mary will create an experience made just for you. Possibilities include a quest to find 
+wild ponies and see dolphins in their natural habitat, pulling crab traps and bringing home your catch, or a private picnic on a sand bar. 
+</description>
+<location>Curtis Merritt Harbor - Slips 28 and 48</location>
+<phone>757-894-0771 or 757-894-9862 or 757-336-5931</phone>
+<email>pmcharter@hotmail.com</email>
+<website>http://www.chincoteaguecharters.com/</website>
+<lat>37.901259</lat>
+<long>-75.406192</long>
+<gm_link></gm_link>
+</listing>
+
+<listing>
+<name categories="Charter Boats,Map View">White Lightning Charters, LLC</name>
+<image alt="White Lightning Charters, LLC" width="230" height="183">charter-boats/white-lighting-charters.jpg</image>
+<description>
+Enjoy a day of deep sea fishing in comfort and safety aboard the 40 Ft. charter boat White Lightning, the largest and most comfortable charter boat operating out of Chincoteague Island. We’ll take you offshore in search of Tuna, Marlin, Mahi, Wahoo, Sharks, and other deep water fish. Our roomy air conditioned cabin allows you to relax on the ride to and from the offshore fishing grounds. You can join Capt. Frank on the bridge and watch for game fish to strike the baits, dolphin playing in the wake of the boat, or the occasional whale surfacing for air. We accommodate groups up to 6 people with all bait, tackle, and required licenses provided. Visit our website (link below) for more information.
+</description>
+<location>Docked behind Don's Seafood Restaurant (4113 Main Street)</location>
+<phone>703-407-2700 or 757-824-3687</phone>
+<email>info@chincoteague-fishing.com</email>
+<website>http://www.whitelightningsportfishing.com/</website>
+<lat>37.935091</lat>
+<long>-75.376332</long>
+<gm_link></gm_link>
+</listing>
+
+<listing>
+<name categories="Charter Boats,Map View">Wonderfull 1</name>
+<image alt="Wonderfull 1" width="228" height="171">charter-boats/wonderful1b.jpg</image>
+<description>
+Bay Fishing with Capt. Wayne Lewis on the 32 foot Wonderfull 1. Two four hour trips daily 8AM to 12 PM and 1PM to 5 PM  Maximum of six people, Bring your own refreshments and remember to bring the kids. We depart from Curtis Merrit Harbor. Flounder - Croaker - Trout- Bluefish - Striped Bass - Kingfish
+</description>
+<location>Curtis Merritt Harbor</location>
+<phone>757-336-6835</phone>
+<email>captlewis@verizon.net</email>
+<website>http://www.chincoteague.com/wonderfull/</website>
+<lat>37.901937</lat>
+<long>-75.405309</long>
+<gm_link></gm_link>
+</listing>
+
+</charter-boat-listings>
